@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Arnold Rurangwa, Computer Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B12"/>
+      <stop offset="55%" stop-color="#0C1420"/>
+      <stop offset="100%" stop-color="#101828"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C4A46A"/>
+      <stop offset="100%" stop-color="#E8D5A3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="320" fill="url(#gold)"/>
+  <line x1="72" y1="78" x2="240" y2="78" stroke="#C4A46A" stroke-width="1.25"/>
+  <text x="72" y="68" fill="#C4A46A" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="6">COMPUTER ENGINEER</text>
+  <text x="72" y="168" fill="#F4F1EA" font-family="Georgia, 'Times New Roman', serif" font-size="64">Arnold Rurangwa</text>
+  <line x1="72" y1="196" x2="620" y2="196" stroke="#2A3548" stroke-width="1"/>
+  <text x="72" y="236" fill="#9AA6B8" font-family="Georgia, 'Times New Roman', serif" font-size="20">Systems  ·  Cybersecurity  ·  Applied AI  ·  Product software</text>
+  <text x="72" y="274" fill="#6D7A8D" font-family="Georgia, 'Times New Roman', serif" font-size="16">Kigali, Rwanda  ·  Founder, ARNOVA Group</text>
+</svg>
