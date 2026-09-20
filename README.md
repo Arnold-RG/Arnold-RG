@@ -1,27 +1,24 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Arnold Rurangwa — Computer Engineer" width="100%" />
+
+# Arnold Rurangwa
+
+### Computer Engineer
+
+Systems · Cybersecurity · Applied AI · Product software
+
+**Kigali, Rwanda** · Founder, ARNOVA Group
+
+[LinkedIn](https://www.linkedin.com/in/rurangwa-arnold-53b90520b/)
+·
+[Email](mailto:rurangwaarnold32@gmail.com)
+·
+[Live work](https://arnold-rg.github.io)
+
+<img src="https://img.shields.io/badge/Title-Computer%20Engineer-0C1420?style=flat-square&labelColor=C4A46A&color=0C1420" alt="Computer Engineer" />
+<img src="https://img.shields.io/badge/Focus-Systems%20%7C%20Security%20%7C%20AI-2A3548?style=flat-square&labelColor=0C1420" alt="Focus" />
+<img src="https://img.shields.io/badge/Open%20to-engineering%20roles-0C1420?style=flat-square&labelColor=2A3548" alt="Open to work" />
+
 </div>
-
-<p align="center">
-  <strong>Computer Engineer</strong><br />
-  I design and ship systems — software, cybersecurity, and applied AI.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rurangwa-arnold-53b90520b/">LinkedIn</a>
-  ·
-  <a href="mailto:rurangwaarnold32@gmail.com">Email</a>
-  ·
-  <a href="https://arnold-rg.github.io">Live work</a>
-  ·
-  Kigali, Rwanda
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Title-Computer%20Engineer-0C1420?style=flat-square&labelColor=C4A46A&color=0C1420" alt="Computer Engineer" />
-  <img src="https://img.shields.io/badge/Focus-Systems%20%7C%20Security%20%7C%20AI-2A3548?style=flat-square&labelColor=0C1420" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open%20to-engineering%20roles-0C1420?style=flat-square&labelColor=2A3548" alt="Open to work" />
-</p>
 
 ---
 
