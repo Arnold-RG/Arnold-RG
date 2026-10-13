@@ -54,9 +54,11 @@ Live traffic desk on OpenStreetMap — search, routing, GPS, weather, and Overpa
 
 [STANS](https://github.com/Arnold-RG/STANS)
 
-### [Africa Shield Cyber Centre](https://github.com/Arnold-RG/Africa-shield-cyber-centre)
+### [Africa Shield Cyber Centre](https://arnold-rg.github.io/Africa-shield-cyber-centre/)
 
-Threat-intelligence desk: reports, a SOC view, a threat map, and admin sign-in. The public copy is the repository.
+Threat-intelligence desk: reports, a SOC view, a threat map, and admin sign-in.
+
+[Africa-shield-cyber-centre](https://github.com/Arnold-RG/Africa-shield-cyber-centre)
 
 ### [Boutique La Différence](https://arnold-rg.github.io/Boutique-la-difference/)
 
@@ -94,9 +96,11 @@ Household ledger for income, savings, expenses, and shared plans.
 
 [our-money-hub](https://github.com/Arnold-RG/our-money-hub)
 
-### [RAGI](https://github.com/Arnold-RG/ragi)
+### [RAGI](https://arnold-rg.github.io/ragi/)
 
-A private secretary. The code is public, and the locks stay private. The public copy is the repository.
+A private secretary. The code is public, and the locks stay private.
+
+[ragi](https://github.com/Arnold-RG/ragi)
 
 ## Engineering focus
 
