@@ -18,7 +18,7 @@ We aim to acknowledge reports within 7 days and publish a fix or mitigation when
 
 ## Practice
 
-- No secrets in source; use `.env.example` only
+- This profile repo contains README and public assets only — no secrets
 - Prefer `textContent` over `innerHTML` for untrusted data
 - External links use `rel="noopener noreferrer"`
 - Dependabot / Actions least privilege where applicable
