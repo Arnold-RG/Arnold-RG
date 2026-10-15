@@ -4,13 +4,13 @@
 
 **Computer Engineer** — systems, cybersecurity, applied AI, and product software.
 
-Kigali, Rwanda · Founder, ARNOVA Group · Open to engineering roles
+Kraków, Poland · Founder, ARNOVA Group · Open to engineering roles
 
 [LinkedIn](https://www.linkedin.com/in/rurangwa-arnold-53b90520b/)
 ·
 [Email](mailto:rurangwaarnold32@gmail.com)
 ·
-[Portfolio](https://arnold-rg.github.io)
+[Portfolio](https://arnold-rg.github.io/arnold-portfolio/)
 
 ---
 
@@ -22,13 +22,13 @@ Founder of **ARNOVA Group**. I care about architecture you can explain, interfac
 
 ## Work
 
-### [Portfolio](https://arnold-rg.github.io/)
+### [Portfolio](https://arnold-rg.github.io/arnold-portfolio/)
 
-The public site: selected work, the short path, and a way to get in touch. The same pages are also published at [arnold-portfolio](https://arnold-rg.github.io/arnold-portfolio/).
+Editorial-tech folio: selected work, skills, experience, and contact. Also mirrored from the root Pages site when published.
 
-[Arnold-RG.github.io](https://github.com/Arnold-RG/Arnold-RG.github.io)
-·
 [arnold-portfolio](https://github.com/Arnold-RG/arnold-portfolio)
+·
+[Arnold-RG.github.io](https://github.com/Arnold-RG/Arnold-RG.github.io)
 
 ### [Hamwe Tourism](https://arnold-rg.github.io/hamwe/)
 
