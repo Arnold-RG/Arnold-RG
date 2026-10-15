@@ -32,59 +32,63 @@ Trained in software systems and cybersecurity (Wrocław, 2022–2025). Founder o
 **Languages** — Python · TypeScript · JavaScript · Dart · Java · C++ · PHP · SQL  
 **Data & cloud** — PostgreSQL · MySQL · Docker · AWS · Azure · GitHub Actions
 
-## Selected work (13 public projects)
+## Selected work (14 public projects)
+
+### [This profile](https://github.com/Arnold-RG)
+Public README and banner for Arnold Rurangwa / ARNOVA Group.  
+[Arnold-RG](https://github.com/Arnold-RG/Arnold-RG)
 
 ### [Portfolio](https://arnold-rg.github.io/arnold-portfolio/)
 Editorial-tech folio: selected work, skills, experience, and contact.  
-[arnold-portfolio](https://github.com/Arnold-RG/arnold-portfolio) · [Arnold-RG.github.io](https://github.com/Arnold-RG/Arnold-RG.github.io)
+[arnold-portfolio](https://github.com/Arnold-RG/arnold-portfolio) · Live: https://arnold-rg.github.io/arnold-portfolio/
 
 ### [Hamwe Tourism](https://arnold-rg.github.io/hamwe/)
 Production storefront for hosted Rwanda tours. React 19, Vite, TypeScript.  
-[Arnold-RG.github.io](https://github.com/Arnold-RG/Arnold-RG.github.io)
+[Arnold-RG.github.io](https://github.com/Arnold-RG/Arnold-RG.github.io) · Live: https://arnold-rg.github.io/hamwe/
 
 ### [AI & Data Scientist Roadmap](https://arnold-rg.github.io/ai-data-scientist-roadmap/)
 A full study curriculum: 10 stages, quizzes, tests, and original projects.  
-[ai-data-scientist-roadmap](https://github.com/Arnold-RG/ai-data-scientist-roadmap)
+[ai-data-scientist-roadmap](https://github.com/Arnold-RG/ai-data-scientist-roadmap) · Live: https://arnold-rg.github.io/ai-data-scientist-roadmap/
 
 ### [Elvora](https://arnold-rg.github.io/nfl-bot/)
 On-device AI health coach for food, training, hydration, and recovery. Flutter.  
-[nfl-bot](https://github.com/Arnold-RG/nfl-bot)
+[nfl-bot](https://github.com/Arnold-RG/nfl-bot) · Live: https://arnold-rg.github.io/nfl-bot/ · App: https://arnold-rg.github.io/nfl-bot/app/
 
 ### [STANS](https://arnold-rg.github.io/STANS/)
 Live traffic desk on OpenStreetMap — search, routing, GPS, weather, and Overpass.  
-[STANS](https://github.com/Arnold-RG/STANS)
+[STANS](https://github.com/Arnold-RG/STANS) · Live: https://arnold-rg.github.io/STANS/
 
 ### [Africa Shield Cyber Centre](https://arnold-rg.github.io/Africa-shield-cyber-centre/)
 Threat-intelligence desk: reports, SOC view, threat map, and admin sign-in.  
-[Africa-shield-cyber-centre](https://github.com/Arnold-RG/Africa-shield-cyber-centre)
+[Africa-shield-cyber-centre](https://github.com/Arnold-RG/Africa-shield-cyber-centre) · Live: https://arnold-rg.github.io/Africa-shield-cyber-centre/
 
 ### [Boutique La Différence](https://arnold-rg.github.io/Boutique-la-difference/)
 Retail storefront for the supermarket in Zindiro, Kigali — catalog and counter.  
-[Boutique-la-difference](https://github.com/Arnold-RG/Boutique-la-difference)
+[Boutique-la-difference](https://github.com/Arnold-RG/Boutique-la-difference) · Live: https://arnold-rg.github.io/Boutique-la-difference/
 
 ### [AbroadCost](https://arnold-rg.github.io/AbroadCost/)
 Country budget planner for 195 countries: living costs, salaries, and travel.  
-[AbroadCost](https://github.com/Arnold-RG/AbroadCost)
+[AbroadCost](https://github.com/Arnold-RG/AbroadCost) · Live: https://arnold-rg.github.io/AbroadCost/
 
 ### [2daymovie](https://twodaymovie.onrender.com/)
-Official film and series trailers, and where to watch legally. Also on [GitHub Pages](https://arnold-rg.github.io/2daymovie/).  
-[2daymovie](https://github.com/Arnold-RG/2daymovie)
+Official film and series trailers, and where to watch legally.  
+[2daymovie](https://github.com/Arnold-RG/2daymovie) · Live: https://twodaymovie.onrender.com/ · Pages: https://arnold-rg.github.io/2daymovie/
 
 ### [Kingdom Life Kraków](https://arnold-rg.github.io/kingdom-life-krakow/)
 Public site for the English-speaking church in Kraków. Sundays at noon.  
-[kingdom-life-krakow](https://github.com/Arnold-RG/kingdom-life-krakow)
+[kingdom-life-krakow](https://github.com/Arnold-RG/kingdom-life-krakow) · Live: https://arnold-rg.github.io/kingdom-life-krakow/
 
 ### [Peakwise](https://arnold-rg.github.io/peakwise/)
 Name the molecule in a mass spectrum. LC-MS/MS peaks come back as ranked structures.  
-[peakwise](https://github.com/Arnold-RG/peakwise)
+[peakwise](https://github.com/Arnold-RG/peakwise) · Live: https://arnold-rg.github.io/peakwise/
 
 ### [Our Money Hub](https://arnold-rg.github.io/our-money-hub/)
 Private household ledger — encrypted books for income, savings, expenses, and plans.  
-[our-money-hub](https://github.com/Arnold-RG/our-money-hub)
+[our-money-hub](https://github.com/Arnold-RG/our-money-hub) · Live: https://arnold-rg.github.io/our-money-hub/
 
 ### [RAGI](https://arnold-rg.github.io/ragi/)
 Owner-sealed private secretary. The code is public; the locks stay private.  
-[ragi](https://github.com/Arnold-RG/ragi)
+[ragi](https://github.com/Arnold-RG/ragi) · Live: https://arnold-rg.github.io/ragi/
 
 ## Security note
 
