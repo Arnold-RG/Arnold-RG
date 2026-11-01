@@ -16,9 +16,9 @@ Kraków, Poland · Founder, [ARNOVA Group](mailto:arnova.group@gmail.com) · Ope
 
 ## Profile
 
-I design and ship software that has to survive contact with the real world: booking sites, mobile coaches, traffic desks, threat-intelligence platforms, study tools, and private vaults.
+I build practical software for learning, security, science, and everyday tasks. My work combines web interfaces, data processing, and application development.
 
-Trained in software systems and cybersecurity (Wrocław, 2022–2025). Founder of **ARNOVA Group**. I care about architecture you can explain, interfaces people can finish using, and security that is designed in — not bolted on.
+Trained in software systems and cybersecurity (Wrocław, 2022–2025). Founder of **ARNOVA Group**. I focus on understandable architecture, accessible interfaces, and explicit security boundaries.
 
 ## Skills
 
@@ -26,73 +26,38 @@ Trained in software systems and cybersecurity (Wrocław, 2022–2025). Founder o
 | --- | --- |
 | **Systems & product** | TypeScript, React, Python, Flutter, Node.js, FastAPI |
 | **Cybersecurity** | Secure app design, threat reporting, network fundamentals |
-| **Applied AI** | Study systems, health coaching, model APIs with honest limits |
-| **Delivery** | GitHub Actions, Docker, GitHub Pages, free-tier constraints |
+| **Applied AI** | Study systems, health coaching, model APIs and evaluation |
+| **Delivery** | GitHub Actions, Docker, GitHub Pages, deployment documentation |
 
 **Languages** — Python · TypeScript · JavaScript · Dart · Java · C++ · PHP · SQL  
 **Data & cloud** — PostgreSQL · MySQL · Docker · AWS · Azure · GitHub Actions
 
-## Selected work (14 public projects)
+## Selected projects
 
-### [This profile](https://github.com/Arnold-RG)
-Public README and banner for Arnold Rurangwa / ARNOVA Group.  
-[Arnold-RG](https://github.com/Arnold-RG/Arnold-RG)
+| Project | What it explores | Source |
+| --- | --- | --- |
+| [Africa Shield](https://arnold-rg.github.io/Africa-shield-cyber-centre/) | Public threat intelligence and incident notes stored on your device | [Repository](https://github.com/Arnold-RG/Africa-shield-cyber-centre) |
+| [AI & Data Scientist Roadmap](https://arnold-rg.github.io/ai-data-scientist-roadmap/) | Structured lessons, Python exercises, quizzes, and portfolio projects | [Repository](https://github.com/Arnold-RG/ai-data-scientist-roadmap) |
+| [Elvora](https://arnold-rg.github.io/nfl-bot/) | Flutter tools for fitness, nutrition, and personal wellness | [Repository](https://github.com/Arnold-RG/nfl-bot) |
+| [STANS](https://arnold-rg.github.io/STANS/) | Map search, routing, weather, and nearby services | [Repository](https://github.com/Arnold-RG/STANS) |
+| [Peakwise](https://arnold-rg.github.io/peakwise/) | Mass-spectrum exploration and ranked molecular candidates | [Repository](https://github.com/Arnold-RG/peakwise) |
+| [Our Money Hub](https://arnold-rg.github.io/our-money-hub/) | Household budgeting, shared records, and savings plans | [Repository](https://github.com/Arnold-RG/our-money-hub) |
 
-### [Portfolio](https://arnold-rg.github.io/arnold-portfolio/)
-Editorial-tech folio: selected work, skills, experience, and contact.  
-[arnold-portfolio](https://github.com/Arnold-RG/arnold-portfolio) · Live: https://arnold-rg.github.io/arnold-portfolio/
+### More work
 
-### [Hamwe Tourism](https://arnold-rg.github.io/hamwe/)
-Production storefront for hosted Rwanda tours. React 19, Vite, TypeScript.  
-[Arnold-RG.github.io](https://github.com/Arnold-RG/Arnold-RG.github.io) · Live: https://arnold-rg.github.io/hamwe/
+- **[Portfolio](https://github.com/Arnold-RG/arnold-portfolio)** — project explorer, experience, resume, and contact.
+- **[Hamwe Tourism](https://github.com/Arnold-RG/Arnold-RG.github.io)** — a Rwanda tourism storefront and the root portfolio site.
+- **[Boutique La Différence](https://github.com/Arnold-RG/Boutique-la-difference)** — retail catalogue and shop-management interfaces.
+- **[AbroadCost](https://github.com/Arnold-RG/AbroadCost)** — country comparisons and living-cost planning.
+- **[2daymovie](https://github.com/Arnold-RG/2daymovie)** — official trailers and legal viewing discovery.
+- **[Kingdom Life Kraków](https://github.com/Arnold-RG/kingdom-life-krakow)** — community information and visitor resources.
+- **[RAGI](https://github.com/Arnold-RG/ragi)** — an on-device workspace with an optional self-hosted backend.
 
-### [AI & Data Scientist Roadmap](https://arnold-rg.github.io/ai-data-scientist-roadmap/)
-A full study curriculum: 10 stages, quizzes, tests, and original projects.  
-[ai-data-scientist-roadmap](https://github.com/Arnold-RG/ai-data-scientist-roadmap) · Live: https://arnold-rg.github.io/ai-data-scientist-roadmap/
-
-### [Elvora](https://arnold-rg.github.io/nfl-bot/)
-On-device AI health coach for food, training, hydration, and recovery. Flutter.  
-[nfl-bot](https://github.com/Arnold-RG/nfl-bot) · Live: https://arnold-rg.github.io/nfl-bot/ · App: https://arnold-rg.github.io/nfl-bot/app/
-
-### [STANS](https://arnold-rg.github.io/STANS/)
-Live traffic desk on OpenStreetMap — search, routing, GPS, weather, and Overpass.  
-[STANS](https://github.com/Arnold-RG/STANS) · Live: https://arnold-rg.github.io/STANS/
-
-### [Africa Shield Cyber Centre](https://arnold-rg.github.io/Africa-shield-cyber-centre/)
-Threat-intelligence desk: reports, SOC view, threat map, and admin sign-in.  
-[Africa-shield-cyber-centre](https://github.com/Arnold-RG/Africa-shield-cyber-centre) · Live: https://arnold-rg.github.io/Africa-shield-cyber-centre/
-
-### [Boutique La Différence](https://arnold-rg.github.io/Boutique-la-difference/)
-Retail storefront for the supermarket in Zindiro, Kigali — catalog and counter.  
-[Boutique-la-difference](https://github.com/Arnold-RG/Boutique-la-difference) · Live: https://arnold-rg.github.io/Boutique-la-difference/
-
-### [AbroadCost](https://arnold-rg.github.io/AbroadCost/)
-Country budget planner for 195 countries: living costs, salaries, and travel.  
-[AbroadCost](https://github.com/Arnold-RG/AbroadCost) · Live: https://arnold-rg.github.io/AbroadCost/
-
-### [2daymovie](https://twodaymovie.onrender.com/)
-Official film and series trailers, and where to watch legally.  
-[2daymovie](https://github.com/Arnold-RG/2daymovie) · Live: https://twodaymovie.onrender.com/ · Pages: https://arnold-rg.github.io/2daymovie/
-
-### [Kingdom Life Kraków](https://arnold-rg.github.io/kingdom-life-krakow/)
-Public site for the English-speaking church in Kraków. Sundays at noon.  
-[kingdom-life-krakow](https://github.com/Arnold-RG/kingdom-life-krakow) · Live: https://arnold-rg.github.io/kingdom-life-krakow/
-
-### [Peakwise](https://arnold-rg.github.io/peakwise/)
-Name the molecule in a mass spectrum. LC-MS/MS peaks come back as ranked structures.  
-[peakwise](https://github.com/Arnold-RG/peakwise) · Live: https://arnold-rg.github.io/peakwise/
-
-### [Our Money Hub](https://arnold-rg.github.io/our-money-hub/)
-Private household ledger — encrypted books for income, savings, expenses, and plans.  
-[our-money-hub](https://github.com/Arnold-RG/our-money-hub) · Live: https://arnold-rg.github.io/our-money-hub/
-
-### [RAGI](https://arnold-rg.github.io/ragi/)
-Owner-sealed private secretary. The code is public; the locks stay private.  
-[ragi](https://github.com/Arnold-RG/ragi) · Live: https://arnold-rg.github.io/ragi/
+Project READMEs describe setup, deployment, and limitations. A public demonstration may provide different features from its self-hosted backend.
 
 ## Security note
 
-This profile repository holds only public README and assets — **no secrets, keys, or credentials**. Vulnerability reports for any ARNOVA / Arnold-RG project: see each repo’s `SECURITY.md`, or email **rurangwaarnold32@gmail.com**. Prefer private disclosure over public issues for unpatched findings.
+This profile contains public documentation and branding assets. Vulnerability reports for any ARNOVA / Arnold-RG project: see each repo’s `SECURITY.md`, or email **rurangwaarnold32@gmail.com**. Prefer private disclosure over public issues for unpatched findings.
 
 ## Education
 
@@ -100,5 +65,5 @@ This profile repository holds only public README and assets — **no secrets, ke
 Wrocławska Akademia Biznesu WSH · Wrocław, Poland · 2022–2025
 
 <p align="center">
-<em>Computer Engineer — I ship the system, then I keep it honest.</em>
+<em>Based in Kraków, Poland · Open to engineering roles and collaboration.</em>
 </p>
