@@ -1,17 +1,18 @@
-/* Personal profile page — Arnold Rurangwa */
+/* Profile Pages — dark theme only. No color-scheme switching. */
 :root {
-  --ink: #1a1714;
-  --paper: #f7f3ec;
-  --muted: #5c574f;
-  --line: rgba(26, 23, 20, 0.12);
-  --card: #fffdf8;
-  --accent: #2c4a6e;
+  --bg: #0d1117;
+  --bg-card: #161b22;
+  --ink: #e6edf3;
+  --muted: #8b949e;
+  --line: #30363d;
+  --accent: #58a6ff;
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; }
+html { color-scheme: dark; }
 body {
   font-family: "Source Sans 3", "Segoe UI", sans-serif;
-  background: var(--paper);
+  background: var(--bg);
   color: var(--ink);
   line-height: 1.55;
 }
@@ -23,9 +24,9 @@ h1 {
   font-size: clamp(2.2rem, 5vw, 3.4rem);
   letter-spacing: -0.03em;
   margin: 0 0 8px;
+  color: var(--ink);
 }
 .role { font-size: 1.15rem; margin: 0 0 18px; color: var(--muted); }
-.meta { margin: 0 0 22px; color: var(--muted); }
 nav { display: flex; flex-wrap: wrap; gap: 14px; font-weight: 600; }
 nav a { color: var(--accent); text-decoration: none; border-bottom: 1px solid currentColor; padding-bottom: 1px; }
 section { padding: 8px 0 36px; }
@@ -34,6 +35,7 @@ h2 {
   font-weight: 500;
   font-size: 1.45rem;
   margin: 0 0 14px;
+  color: var(--ink);
 }
 p { margin: 0 0 12px; max-width: 42rem; }
 table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
@@ -42,7 +44,7 @@ th { font-size: 0.78rem; letter-spacing: 0.06em; text-transform: uppercase; colo
 td a { color: var(--accent); }
 .skills { display: grid; gap: 10px; }
 .skills div {
-  background: var(--card);
+  background: var(--bg-card);
   border: 1px solid var(--line);
   border-radius: 12px;
   padding: 14px 16px;
@@ -55,3 +57,4 @@ footer {
   color: var(--muted);
   font-size: 0.9rem;
 }
+footer a { color: var(--accent); }
