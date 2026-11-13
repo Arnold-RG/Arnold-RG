@@ -497,8 +497,8 @@
       "stars": 0
     },
     {
-      "name": "ai-data-scientist-roadmap",
-      "url": "https://github.com/Arnold-RG/ai-data-scientist-roadmap",
+      "name": "study-atlas",
+      "url": "https://github.com/Arnold-RG/study-atlas",
       "description": "Study curriculum for AI and data science: 10 stages, quizzes, tests, and original projects aligned to roadmap.sh.",
       "language": "Python",
       "pushedAt": "2026-11-13T00:44:18Z",
@@ -506,7 +506,7 @@
       "commits_30": 5,
       "commits_90": 9,
       "commits_365": 9,
-      "pages_url": "https://arnold-rg.github.io/ai-data-scientist-roadmap/",
+      "pages_url": "https://arnold-rg.github.io/study-atlas/",
       "pages_http": 200,
       "live_label": "Live",
       "pr_count": 0,
@@ -611,8 +611,8 @@
       "stars": 0
     },
     {
-      "name": "nfl-bot",
-      "url": "https://github.com/Arnold-RG/nfl-bot",
+      "name": "elvora",
+      "url": "https://github.com/Arnold-RG/elvora",
       "description": "On-device AI health coach for food, training, hydration, and recovery. Flutter — iOS, Android, and web.",
       "language": "Dart",
       "pushedAt": "2026-11-13T00:44:20Z",
@@ -620,7 +620,7 @@
       "commits_30": 5,
       "commits_90": 20,
       "commits_365": 20,
-      "pages_url": "https://arnold-rg.github.io/nfl-bot/",
+      "pages_url": "https://arnold-rg.github.io/elvora/",
       "pages_http": 200,
       "live_label": "Live",
       "pr_count": 1,
@@ -872,10 +872,10 @@
         "author": "Arnold-RG"
       },
       {
-        "repo": "nfl-bot",
+        "repo": "elvora",
         "number": 2,
         "title": "Upgrade FastAPI and python-dotenv past known advisories",
-        "url": "https://github.com/Arnold-RG/nfl-bot/pull/2",
+        "url": "https://github.com/Arnold-RG/elvora/pull/2",
         "isDraft": true,
         "author": "Arnold-RG"
       },
@@ -1074,8 +1074,8 @@
         "name": "cursor/backend-dep-advisories-2d35",
         "ahead": 3,
         "behind": 2,
-        "url": "https://github.com/Arnold-RG/nfl-bot/tree/cursor/backend-dep-advisories-2d35",
-        "repo": "nfl-bot"
+        "url": "https://github.com/Arnold-RG/elvora/tree/cursor/backend-dep-advisories-2d35",
+        "repo": "elvora"
       },
       {
         "name": "cursor/household-ledger-rebuild-03f3",
@@ -1326,13 +1326,13 @@
     },
     {
       "type": "pr",
-      "repo": "nfl-bot",
+      "repo": "elvora",
       "createdAt": "2026-10-17T21:12:43Z",
       "action": "opened",
       "number": 2,
       "title": "Upgrade FastAPI and python-dotenv past known advisories",
       "draft": true,
-      "url": "https://api.github.com/repos/Arnold-RG/nfl-bot/pulls/2",
+      "url": "https://api.github.com/repos/Arnold-RG/elvora/pulls/2",
       "author": ""
     },
     {
