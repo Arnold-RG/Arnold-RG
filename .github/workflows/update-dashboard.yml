@@ -16,6 +16,10 @@ concurrency:
 jobs:
   update:
     name: Refresh dashboard
+    # Paused: the README project cards and the Pages site are hand-maintained.
+    # The collector still writes a table without screenshots and would restore
+    # stale repository names and a light-themed Pages page.
+    if: false
     runs-on: ubuntu-latest
     steps:
       - name: Check out
