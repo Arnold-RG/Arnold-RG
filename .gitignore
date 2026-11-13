@@ -8,3 +8,9 @@ node_modules/
 __pycache__/
 .DS_Store
 
+
+# Local README previews (not published)
+preview-*.png
+preview-*.html
+__pycache__/
+*.pyc
