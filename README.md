@@ -43,7 +43,7 @@ Each project has its own live URL. Descriptions match what the code actually doe
 | --- | --- | --- | --- |
 | [Portfolio](https://arnold-rg.github.io/arnold-portfolio/) | Personal engineering folio, experience, and resume | [Live](https://arnold-rg.github.io/arnold-portfolio/) | [Repo](https://github.com/Arnold-RG/arnold-portfolio) |
 | [Hamwe Tourism](https://arnold-rg.github.io/hamwe/) | Rwanda tourism storefront (React / Vite), with the root Pages site | [Live](https://arnold-rg.github.io/hamwe/) | [Repo](https://github.com/Arnold-RG/Arnold-RG.github.io) |
-| [Africa Shield](https://arnold-rg.github.io/Africa-shield-cyber-centre/) | Public threat-intelligence and reporting desk for security operations | [Live](https://arnold-rg.github.io/Africa-shield-cyber-centre/) | [Repo](https://github.com/Arnold-RG/Africa-shield-cyber-centre) |
+| [WorldShield SOC](https://arnold-rg.github.io/worldshield-soc/) | Global security-operations dashboard with public threat-intelligence feeds | [Live](https://arnold-rg.github.io/worldshield-soc/) | [Repo](https://github.com/Arnold-RG/worldshield-soc) |
 | [STANS](https://arnold-rg.github.io/STANS/) | Live traffic desk: OpenStreetMap search, OSRM routing, weather, nearby help | [Live](https://arnold-rg.github.io/STANS/) | [Repo](https://github.com/Arnold-RG/STANS) |
 | [Peakwise](https://arnold-rg.github.io/peakwise/) | LC-MS/MS peak lists ranked into chemical structures (SMILES) | [Live](https://arnold-rg.github.io/peakwise/) | [Repo](https://github.com/Arnold-RG/peakwise) |
 | [Elvora](https://arnold-rg.github.io/nfl-bot/) | Flutter app and site for fitness, nutrition, and a personal coach | [Live](https://arnold-rg.github.io/nfl-bot/) | [Repo](https://github.com/Arnold-RG/nfl-bot) |
