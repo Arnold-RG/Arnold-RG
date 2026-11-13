@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13 03:14:47",
+  "generated_at": "2026-11-13 03:44:21",
   "timezone": "Europe/Warsaw",
   "public_only": true,
   "kpis": {
     "repos": 16,
-    "commits_365": 329,
-    "commits_90": 321,
-    "commits_30": 100,
+    "commits_365": 330,
+    "commits_90": 322,
+    "commits_30": 101,
     "languages": 20,
     "live_pages": 16,
     "open_prs": 76,
@@ -26,121 +26,121 @@
       "name": "TypeScript",
       "bytes": 1381440,
       "color": "#3178c6",
-      "pct": 28.062215302910392
+      "pct": 27.98398391747415
     },
     {
       "name": "Dart",
       "bytes": 961102,
       "color": "#00B4AB",
-      "pct": 19.523577753690194
+      "pct": 19.469150242538394
     },
     {
       "name": "Python",
       "bytes": 730105,
       "color": "#3572A5",
-      "pct": 14.831164367421959
+      "pct": 14.789818289659676
     },
     {
       "name": "JavaScript",
-      "bytes": 721990,
+      "bytes": 726424,
       "color": "#f1e05a",
-      "pct": 14.66631835370937
+      "pct": 14.715251862742676
     },
     {
       "name": "CSS",
-      "bytes": 592341,
+      "bytes": 598466,
       "color": "#663399",
-      "pct": 12.032662058968354
+      "pct": 12.12319240731055
     },
     {
       "name": "HTML",
-      "bytes": 475709,
+      "bytes": 478912,
       "color": "#e34c26",
-      "pct": 9.663429739642835
+      "pct": 9.701373715749783
     },
     {
       "name": "CMake",
       "bytes": 18198,
       "color": "#DA3434",
-      "pct": 0.36966947104641773
+      "pct": 0.36863891253343944
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 10563,
       "color": "#DA5B0B",
-      "pct": 0.21457405333901033
+      "pct": 0.21397586729809434
     },
     {
       "name": "C++",
       "bytes": 8260,
       "color": "#f34b7d",
-      "pct": 0.1677915062558199
+      "pct": 0.16732373983548796
     },
     {
       "name": "Shell",
       "bytes": 6176,
       "color": "#89e051",
-      "pct": 0.1254576685999932
+      "pct": 0.12510791976077162
     },
     {
       "name": "Dockerfile",
       "bytes": 3483,
       "color": "#384d54",
-      "pct": 0.0707527622625933
+      "pct": 0.0705555188676761
     },
     {
       "name": "HCL",
       "bytes": 3220,
       "color": "#844FBA",
-      "pct": 0.06541024820142131
+      "pct": 0.06522789857993598
     },
     {
       "name": "Swift",
       "bytes": 3115,
       "color": "#F05138",
-      "pct": 0.06327730532528801
+      "pct": 0.06310090188711198
     },
     {
       "name": "Kotlin",
       "bytes": 3081,
       "color": "#A97BFF",
-      "pct": 0.06258663810825436
+      "pct": 0.06241216010086421
     },
     {
       "name": "Ruby",
       "bytes": 1794,
       "color": "#701516",
-      "pct": 0.036442852569363304
+      "pct": 0.03634125778025005
     },
     {
       "name": "C",
       "bytes": 1056,
       "color": "#555555",
-      "pct": 0.021451311211397796
+      "pct": 0.021391509596401365
     },
     {
       "name": "Makefile",
       "bytes": 553,
       "color": "#427819",
-      "pct": 0.0112334991476354
+      "pct": 0.011202182582206396
     },
     {
       "name": "PowerShell",
       "bytes": 471,
       "color": "#012456",
-      "pct": 0.009567772330083676
+      "pct": 0.009541099450667653
     },
     {
       "name": "Procfile",
       "bytes": 81,
       "color": "#3B2F63",
-      "pct": 0.001645413075874263
+      "pct": 0.0016408260201785138
     },
     {
       "name": "Objective-C",
       "bytes": 38,
       "color": "#438eff",
-      "pct": 0.0007719221837434813
+      "pct": 0.0007697702316886855
     }
   ],
   "weekly": [
@@ -452,7 +452,7 @@
     },
     {
       "week": 1794096000,
-      "total": 38,
+      "total": 39,
       "label": "",
       "date": "2026-11-08"
     }
@@ -539,17 +539,17 @@
       "url": "https://github.com/Arnold-RG/Arnold-RG",
       "description": "Computer Engineer. Public profile for Arnold Rurangwa — software, Linux, IT support, and cybersecurity / SOC.",
       "language": "CSS",
-      "pushedAt": "2026-11-13T00:44:11Z",
-      "pushedAtLocal": "13 Nov 2026, 01:44",
-      "commits_30": 7,
-      "commits_90": 12,
-      "commits_365": 12,
+      "pushedAt": "2026-11-13T02:44:01Z",
+      "pushedAtLocal": "13 Nov 2026, 03:44",
+      "commits_30": 8,
+      "commits_90": 13,
+      "commits_365": 13,
       "pages_url": "https://arnold-rg.github.io/Arnold-RG/",
       "pages_http": 200,
       "live_label": "Live",
       "pr_count": 0,
       "issue_count": 0,
-      "ci_label": "Passing",
+      "ci_label": "Running",
       "status": "Live",
       "stars": 0
     },
@@ -1468,6 +1468,5 @@
       "head": "74ded7557192cc8ca1cc85a0b3c554501231e42a",
       "url": "https://github.com/Arnold-RG/2daymovie"
     }
-  ],
-  "generated_at_display": "13 Nov 2026, 03:14"
+  ]
 }
