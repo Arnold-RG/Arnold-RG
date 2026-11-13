@@ -34,8 +34,7 @@ Computer engineer working in software, Linux and IT support, and cybersecurity /
 ## GitHub stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arnold-RG&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;hide_title=false&amp;include_all_commits=false" alt="GitHub stats for Arnold-RG" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnold-RG&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8" alt="Top languages for Arnold-RG" height="165">
+<img src="assets/stats.svg" alt="Arnold-RG public work: 15 public repositories, 0 stars, and top languages by bytes as of 13 November 2026" width="840" height="228">
 </div>
 
 ## Projects
@@ -206,13 +205,16 @@ Each card is a live public site. The [portfolio](https://arnold-rg.github.io/arn
 </tr>
 </table>
 
-## In progress
+## Selected open work
 
-Open, non-Dependabot pull requests on public project repositories, as of 13 November 2026, Europe/Warsaw. Drafts are marked. Titles are the ones on GitHub.
+A curated selection of open, non-Dependabot pull requests on public project repositories, as of 13 November 2026, Europe/Warsaw. Drafts are marked. This is not a complete list.
 
 - [2daymovie#14](https://github.com/Arnold-RG/2daymovie/pull/14) — Improve security, catalog performance and phone navigation
 - [2daymovie#13](https://github.com/Arnold-RG/2daymovie/pull/13) — draft · Fix GitHub Pages links for hero trailers and upcoming titles
+- [2daymovie#1](https://github.com/Arnold-RG/2daymovie/pull/1) — Restore Live Reviews and polish glass review cards
 - [kingdom-life-krakow#9](https://github.com/Arnold-RG/kingdom-life-krakow/pull/9) — draft · Kingdom Life Kraków redesign
+- [kingdom-life-krakow#2](https://github.com/Arnold-RG/kingdom-life-krakow/pull/2) — draft · Center dock-page copy, Home-only YouTube, and full footers
+- [kingdom-life-krakow#1](https://github.com/Arnold-RG/kingdom-life-krakow/pull/1) — draft · Fix responsive alignment; desktop top nav, mobile dock
 - [worldshield-soc#3](https://github.com/Arnold-RG/worldshield-soc/pull/3) — draft · Add a public 3D SOC dashboard
 - [worldshield-soc#2](https://github.com/Arnold-RG/worldshield-soc/pull/2) — draft · Remove the old company name from public text
 - [AbroadCost#3](https://github.com/Arnold-RG/AbroadCost/pull/3) — Remove the old company name from public text
@@ -224,6 +226,8 @@ Open, non-Dependabot pull requests on public project repositories, as of 13 Nove
 - [peakwise#17](https://github.com/Arnold-RG/peakwise/pull/17) — draft · Upgrade python-multipart, pytest, and Starlette to clear advisories
 - [elvora#2](https://github.com/Arnold-RG/elvora/pull/2) — draft · Upgrade FastAPI and python-dotenv past known advisories
 - [ragi#3](https://github.com/Arnold-RG/ragi/pull/3) — draft · Fix high-severity Prisma deepmerge-ts audit findings
+- [ragi#2](https://github.com/Arnold-RG/ragi/pull/2) — draft · Go live: GitHub Pages public link for RAGI chamber
+- [our-money-hub#1](https://github.com/Arnold-RG/our-money-hub/pull/1) — draft · Give each person a private account and redraw the household book
 
 ## Education
 
