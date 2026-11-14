@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="228" viewBox="0 0 840 228" role="img" aria-labelledby="title desc">
 <title id="title">Arnold-RG public GitHub snapshot</title>
-<desc id="desc">15 public repositories, 0 stars. Top languages by bytes across public non-fork repositories: TypeScript 28.2%, Dart 19.6%, Python 16.8%, JavaScript 13.9%, CSS 11.3%, HTML 9.0%. As of 13 November 2026.</desc>
+<desc id="desc">20 public repositories, 0 stars (count as of 14 November 2026). Top languages by bytes across public non-fork repositories: TypeScript 28.2%, Dart 19.6%, Python 16.8%, JavaScript 13.9%, CSS 11.3%, HTML 9.0%. As of 13 November 2026.</desc>
 <style>
   text { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
   .h { fill: #e6edf3; font-size: 15px; font-weight: 600; }
@@ -14,7 +14,7 @@
 <rect width="840" height="228" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 <text class="h" x="24" y="32">Arnold-RG · public work</text>
 <text class="sub" x="24" y="50">As of 13 Nov 2026, Europe/Warsaw. Public non-fork repositories only for languages.</text>
-<text class="kpi" x="24" y="108">15</text>
+<text class="kpi" x="24" y="108">20</text>
 <text class="kl" x="24" y="126">PUBLIC REPOSITORIES</text>
 <text class="kpi" x="24" y="172">0</text>
 <text class="kl" x="24" y="190">STARS</text>

@@ -34,7 +34,7 @@ Computer engineer working in software, Linux and IT support, and cybersecurity /
 ## GitHub stats
 
 <div align="center">
-<img src="assets/stats.svg" alt="Arnold-RG public work: 15 public repositories, 0 stars, and top languages by bytes as of 13 November 2026" width="840" height="228">
+<img src="assets/stats.svg" alt="Arnold-RG public work: 20 public repositories, 0 stars (count as of 14 November 2026), and top languages by bytes as of 13 November 2026" width="840" height="228">
 </div>
 
 ## Projects
@@ -240,6 +240,33 @@ A curated selection of open, non-Dependabot pull requests on public project repo
 - [ragi#3](https://github.com/Arnold-RG/ragi/pull/3) — draft · Fix high-severity Prisma deepmerge-ts audit findings
 - [ragi#2](https://github.com/Arnold-RG/ragi/pull/2) — draft · Go live: GitHub Pages public link for RAGI chamber
 - [our-money-hub#1](https://github.com/Arnold-RG/our-money-hub/pull/1) — draft · Give each person a private account and redraw the household book
+
+## All public repositories
+
+Every public repository on this account (20), A to Z.
+
+| Repository | What it is | Language | Live |
+|---|---|---|---|
+| [2daymovie](https://github.com/Arnold-RG/2daymovie) | 2daymovie — legal movie discovery: official HD trailers, browse, and where to watch. No full-film streaming. | Python | [Open](https://arnold-rg.github.io/2daymovie/) |
+| [AbroadCost](https://github.com/Arnold-RG/AbroadCost) | Country budget planner for 195 countries: living costs, travel budgets, and salaries. | JavaScript | [Open](https://arnold-rg.github.io/AbroadCost/) |
+| [arnold-portfolio](https://github.com/Arnold-RG/arnold-portfolio) | Engineering folio and resume for a computer engineer: software, cybersecurity, networks, and applied machine learning. | HTML | [Open](https://arnold-rg.github.io/arnold-portfolio/) |
+| [Arnold-RG](https://github.com/Arnold-RG/Arnold-RG) | Computer Engineer. Public profile for Arnold Rurangwa — software, Linux, IT support, and cybersecurity / SOC. | Python | [Open](https://arnold-rg.github.io/Arnold-RG/) |
+| [Boutique-la-difference](https://github.com/Arnold-RG/Boutique-la-difference) | Neighborhood supermarket storefront in Zindiro, Kigali — food, drinks, electronics, home goods, tools, and body products. Public shop on GitHub Pages; no customer account. | JavaScript | [Open](https://arnold-rg.github.io/Boutique-la-difference/) |
+| [elvora](https://github.com/Arnold-RG/elvora) | On-device AI health coach for food, training, hydration, and recovery. Flutter — iOS, Android, and web. | Dart | [Open](https://arnold-rg.github.io/elvora/) |
+| [hamwe](https://github.com/Arnold-RG/hamwe) | Hamwe Tourism plans full Rwanda tours for small groups, hosted from Kigali. | TypeScript | [Open](https://arnold-rg.github.io/hamwe/) |
+| [kingdom-life-krakow](https://github.com/Arnold-RG/kingdom-life-krakow) | Public English church website for Kingdom Life Krakow. Sunday 12:00 at Hotel Centrum. Open to any browser. | HTML | [Open](https://arnold-rg.github.io/kingdom-life-krakow/) |
+| [log-analyzer](https://github.com/Arnold-RG/log-analyzer) | Find failed logons, brute force, lockouts, admin-group changes and sudo misuse in Windows Security logs and Linux auth logs | Shell | Command-line tool |
+| [network-monitor](https://github.com/Arnold-RG/network-monitor) | Detect new devices joining your local network (ARP + ping sweep, known-devices baseline, logging and alerts) - PowerShell and bash | PowerShell | Command-line tool |
+| [network-scanner](https://github.com/Arnold-RG/network-scanner) | Discover live hosts on a local IPv4 subnet (ping sweep, reverse DNS, common-port check) in PowerShell and bash, plus a Cisco Packet Tracer VLAN/DHCP lab | Shell | Command-line tool |
+| [our-money-hub](https://github.com/Arnold-RG/our-money-hub) | Private household ledger: shared books, savings, and plans in the browser. | JavaScript | [Open](https://arnold-rg.github.io/our-money-hub/) |
+| [peakwise](https://github.com/Arnold-RG/peakwise) | Name the molecule in your mass spectrum. LC-MS/MS peaks to SMILES, in the browser. | Python | [Open](https://arnold-rg.github.io/peakwise/) |
+| [port-scanner](https://github.com/Arnold-RG/port-scanner) | TCP connect port scanner for hosts, IP ranges and CIDR blocks with banner grabbing and CSV/JSON output - PowerShell and bash | Shell | Command-line tool |
+| [ragi](https://github.com/Arnold-RG/ragi) | On-device private secretary for notes, money, and projects, with an optional self-hosted backend. | TypeScript | [Open](https://arnold-rg.github.io/ragi/) |
+| [security-hardening-checker](https://github.com/Arnold-RG/security-hardening-checker) | Read-only Windows and Linux security hardening audits with PASS/WARN/FAIL results, score and exit codes | Shell | Command-line tool |
+| [STANS](https://github.com/Arnold-RG/STANS) | Live OpenStreetMap traffic desk: Nominatim search, OSRM routing, GPS, weather, and Overpass points of interest. | TypeScript | [Open](https://arnold-rg.github.io/STANS/) |
+| [study-atlas](https://github.com/Arnold-RG/study-atlas) | Study curriculum for AI and data science: 10 stages, quizzes, tests, and original projects aligned to roadmap.sh. | Python | [Open](https://arnold-rg.github.io/study-atlas/) |
+| [vira](https://github.com/Arnold-RG/vira) | Vira — Vision, Innovation, Reliability, Automation. Studio site for intelligent websites, systems, and automation. | JavaScript | [Open](https://arnold-rg.github.io/vira/) |
+| [worldshield-soc](https://github.com/Arnold-RG/worldshield-soc) | WorldShield SOC: global cyber threat dashboard built from real public feeds, with an AI SOC analyst and automated ops | Python | [Open](https://arnold-rg.github.io/worldshield-soc/) |
 
 ## Education
 
