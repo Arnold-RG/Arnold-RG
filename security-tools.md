@@ -8,7 +8,7 @@ Five command-line tools for network discovery, monitoring, hardening and log ana
 
 | Tool | What it does | Windows | Linux |
 |---|---|---|---|
-| [Network Scanner](https://github.com/Arnold-RG/network-scanner) | Finds live hosts on a subnet and shows IP, hostname and common open ports. Includes a Cisco Packet Tracer lab (VLANs, DHCP, router-on-a-stick). | `scan-network.ps1 -Cidr 192.168.1.0/24` | `./scan-network.sh 192.168.1.0/24` |
+| [Network Scanner](https://github.com/Arnold-RG/network-scanner) | Finds live hosts on a subnet and shows IP, hostname and common open ports. Includes a Cisco Packet Tracer lab (VLANs, DHCP, router-on-a-stick). | `scan-network.ps1 -Target 192.168.1.0/24` | `./scan-network.sh 192.168.1.0/24` |
 | [Port Scanner](https://github.com/Arnold-RG/port-scanner) | TCP connect scan of a host, IP range or CIDR block with port lists and ranges, timeouts, parallel probes, banner grab and CSV/JSON output. | `port-scan.ps1 -Target 127.0.0.1 -Ports 1-1024` | `./port-scan.sh -p 1-1024 127.0.0.1` |
 | [Network Monitor](https://github.com/Arnold-RG/network-monitor) | Compares devices on the network against a known-devices list and logs and alerts on new devices or IP changes. Run once or on an interval. | `monitor-network.ps1 -Once` | `./monitor-network.sh -1` |
 | [Security Hardening Checker](https://github.com/Arnold-RG/security-hardening-checker) | Read-only audit of Windows and Linux security settings (firewall, Defender, UAC, SMBv1, RDP, SSH, file permissions and more) with PASS/WARN/FAIL and a score. | `check-windows.ps1` | `sudo ./check-linux.sh` |
@@ -35,7 +35,7 @@ git clone https://github.com/Arnold-RG/network-scanner.git && cd network-scanner
 
 ```powershell
 git clone https://github.com/Arnold-RG/network-scanner.git; cd network-scanner
-.\scan-network.ps1 -Cidr 192.168.1.0/24
+.\scan-network.ps1 -Target 192.168.1.0/24
 ```
 
 ## [Port Scanner](https://github.com/Arnold-RG/port-scanner)
