@@ -277,7 +277,7 @@ Every public repository on this account (20), A to Z, with the languages (share 
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/Arnold-RG">Arnold-RG</a></h3>
 <p>Computer Engineer. Public profile for Arnold Rurangwa — software, Linux, IT support, and cybersecurity / SOC.</p>
-<p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2086%25-3776AB?style=flat-square" alt="Python 86%"> <img src="https://img.shields.io/badge/CSS%206%25-663399?style=flat-square" alt="CSS 6%"> <img src="https://img.shields.io/badge/HTML%205%25-E34F26?style=flat-square" alt="HTML 5%"> <img src="https://img.shields.io/badge/JavaScript%203%25-F7DF1E?style=flat-square" alt="JavaScript 3%"></p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2079%25-E34F26?style=flat-square" alt="HTML 79%"> <img src="https://img.shields.io/badge/Python%2019%25-3776AB?style=flat-square" alt="Python 19%"> <img src="https://img.shields.io/badge/CSS%201%25-663399?style=flat-square" alt="CSS 1%"> <img src="https://img.shields.io/badge/JavaScript%201%25-F7DF1E?style=flat-square" alt="JavaScript 1%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/computer--engineer-2b2d42?style=flat-square" alt="computer-engineer"> <img src="https://img.shields.io/badge/cybersecurity-2b2d42?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/it--support-2b2d42?style=flat-square" alt="it-support"> <img src="https://img.shields.io/badge/linux-2b2d42?style=flat-square" alt="linux"> <img src="https://img.shields.io/badge/profile-2b2d42?style=flat-square" alt="profile"> <img src="https://img.shields.io/badge/systems-2b2d42?style=flat-square" alt="systems"></p>
 <p><a href="https://github.com/Arnold-RG/Arnold-RG">Code</a> · <a href="https://arnold-rg.github.io/Arnold-RG/">Live</a></p>
 </td>
@@ -397,7 +397,7 @@ Every public repository on this account (20), A to Z, with the languages (share 
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/vira">vira</a></h3>
-<p>Vira — Vision, Innovation, Reliability, Automation. Studio site for intelligent websites, systems, and automation.</p>
+<p>Arnova Group: studio site for websites, apps, automation and tech support for businesses in Rwanda.</p>
 <p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2035%25-F7DF1E?style=flat-square" alt="JavaScript 35%"> <img src="https://img.shields.io/badge/HTML%2033%25-E34F26?style=flat-square" alt="HTML 33%"> <img src="https://img.shields.io/badge/CSS%2031%25-663399?style=flat-square" alt="CSS 31%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/css-2b2d42?style=flat-square" alt="css"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/javascript-2b2d42?style=flat-square" alt="javascript"> <img src="https://img.shields.io/badge/krakow-2b2d42?style=flat-square" alt="krakow"> <img src="https://img.shields.io/badge/studio-2b2d42?style=flat-square" alt="studio"> <img src="https://img.shields.io/badge/website-2b2d42?style=flat-square" alt="website"></p>
 <p><a href="https://github.com/Arnold-RG/vira">Code</a> · <a href="https://arnold-rg.github.io/vira/">Live</a></p>
