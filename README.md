@@ -243,30 +243,174 @@ A curated selection of open, non-Dependabot pull requests on public project repo
 
 ## All public repositories
 
-Every public repository on this account (20), A to Z.
+<!-- REPO-INDEX:START -->
 
-| Repository | What it is | Language | Live |
-|---|---|---|---|
-| [2daymovie](https://github.com/Arnold-RG/2daymovie) | 2daymovie — legal movie discovery: official HD trailers, browse, and where to watch. No full-film streaming. | Python | [Open](https://arnold-rg.github.io/2daymovie/) |
-| [AbroadCost](https://github.com/Arnold-RG/AbroadCost) | Country budget planner for 195 countries: living costs, travel budgets, and salaries. | JavaScript | [Open](https://arnold-rg.github.io/AbroadCost/) |
-| [arnold-portfolio](https://github.com/Arnold-RG/arnold-portfolio) | Engineering folio and resume for a computer engineer: software, cybersecurity, networks, and applied machine learning. | HTML | [Open](https://arnold-rg.github.io/arnold-portfolio/) |
-| [Arnold-RG](https://github.com/Arnold-RG/Arnold-RG) | Computer Engineer. Public profile for Arnold Rurangwa — software, Linux, IT support, and cybersecurity / SOC. | Python | [Open](https://arnold-rg.github.io/Arnold-RG/) |
-| [Boutique-la-difference](https://github.com/Arnold-RG/Boutique-la-difference) | Neighborhood supermarket storefront in Zindiro, Kigali — food, drinks, electronics, home goods, tools, and body products. Public shop on GitHub Pages; no customer account. | JavaScript | [Open](https://arnold-rg.github.io/Boutique-la-difference/) |
-| [elvora](https://github.com/Arnold-RG/elvora) | On-device AI health coach for food, training, hydration, and recovery. Flutter — iOS, Android, and web. | Dart | [Open](https://arnold-rg.github.io/elvora/) |
-| [hamwe](https://github.com/Arnold-RG/hamwe) | Hamwe Tourism plans full Rwanda tours for small groups, hosted from Kigali. | TypeScript | [Open](https://arnold-rg.github.io/hamwe/) |
-| [kingdom-life-krakow](https://github.com/Arnold-RG/kingdom-life-krakow) | Public English church website for Kingdom Life Krakow. Sunday 12:00 at Hotel Centrum. Open to any browser. | HTML | [Open](https://arnold-rg.github.io/kingdom-life-krakow/) |
-| [log-analyzer](https://github.com/Arnold-RG/log-analyzer) | Find failed logons, brute force, lockouts, admin-group changes and sudo misuse in Windows Security logs and Linux auth logs | Shell | Command-line tool |
-| [network-monitor](https://github.com/Arnold-RG/network-monitor) | Detect new devices joining your local network (ARP + ping sweep, known-devices baseline, logging and alerts) - PowerShell and bash | PowerShell | Command-line tool |
-| [network-scanner](https://github.com/Arnold-RG/network-scanner) | Discover live hosts on a local IPv4 subnet (ping sweep, reverse DNS, common-port check) in PowerShell and bash, plus a Cisco Packet Tracer VLAN/DHCP lab | Shell | Command-line tool |
-| [our-money-hub](https://github.com/Arnold-RG/our-money-hub) | Private household ledger: shared books, savings, and plans in the browser. | JavaScript | [Open](https://arnold-rg.github.io/our-money-hub/) |
-| [peakwise](https://github.com/Arnold-RG/peakwise) | Name the molecule in your mass spectrum. LC-MS/MS peaks to SMILES, in the browser. | Python | [Open](https://arnold-rg.github.io/peakwise/) |
-| [port-scanner](https://github.com/Arnold-RG/port-scanner) | TCP connect port scanner for hosts, IP ranges and CIDR blocks with banner grabbing and CSV/JSON output - PowerShell and bash | Shell | Command-line tool |
-| [ragi](https://github.com/Arnold-RG/ragi) | On-device private secretary for notes, money, and projects, with an optional self-hosted backend. | TypeScript | [Open](https://arnold-rg.github.io/ragi/) |
-| [security-hardening-checker](https://github.com/Arnold-RG/security-hardening-checker) | Read-only Windows and Linux security hardening audits with PASS/WARN/FAIL results, score and exit codes | Shell | Command-line tool |
-| [STANS](https://github.com/Arnold-RG/STANS) | Live OpenStreetMap traffic desk: Nominatim search, OSRM routing, GPS, weather, and Overpass points of interest. | TypeScript | [Open](https://arnold-rg.github.io/STANS/) |
-| [study-atlas](https://github.com/Arnold-RG/study-atlas) | Study curriculum for AI and data science: 10 stages, quizzes, tests, and original projects aligned to roadmap.sh. | Python | [Open](https://arnold-rg.github.io/study-atlas/) |
-| [vira](https://github.com/Arnold-RG/vira) | Vira — Vision, Innovation, Reliability, Automation. Studio site for intelligent websites, systems, and automation. | JavaScript | [Open](https://arnold-rg.github.io/vira/) |
-| [worldshield-soc](https://github.com/Arnold-RG/worldshield-soc) | WorldShield SOC: global cyber threat dashboard built from real public feeds, with an AI SOC analyst and automated ops | Python | [Open](https://arnold-rg.github.io/worldshield-soc/) |
+Every public repository on this account (20), A to Z, with the languages (share of code, from GitHub) and tools (repository topics) each one uses. Updated automatically.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/2daymovie">2daymovie</a></h3>
+<p>2daymovie — legal movie discovery: official HD trailers, browse, and where to watch. No full-film streaming.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2069%25-3776AB?style=flat-square" alt="Python 69%"> <img src="https://img.shields.io/badge/HTML%2015%25-E34F26?style=flat-square" alt="HTML 15%"> <img src="https://img.shields.io/badge/CSS%2011%25-663399?style=flat-square" alt="CSS 11%"> <img src="https://img.shields.io/badge/JavaScript%206%25-F7DF1E?style=flat-square" alt="JavaScript 6%"> <img src="https://img.shields.io/badge/Dockerfile%200%25-2496ED?style=flat-square" alt="Dockerfile 0%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/docker-2b2d42?style=flat-square" alt="docker"> <img src="https://img.shields.io/badge/flask-2b2d42?style=flat-square" alt="flask"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/movies-2b2d42?style=flat-square" alt="movies"> <img src="https://img.shields.io/badge/python-2b2d42?style=flat-square" alt="python"> <img src="https://img.shields.io/badge/trailers-2b2d42?style=flat-square" alt="trailers"></p>
+<p><a href="https://github.com/Arnold-RG/2daymovie">Code</a> · <a href="https://arnold-rg.github.io/2daymovie/">Live</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/AbroadCost">AbroadCost</a></h3>
+<p>Country budget planner for 195 countries: living costs, travel budgets, and salaries.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2042%25-F7DF1E?style=flat-square" alt="JavaScript 42%"> <img src="https://img.shields.io/badge/Python%2021%25-3776AB?style=flat-square" alt="Python 21%"> <img src="https://img.shields.io/badge/CSS%2020%25-663399?style=flat-square" alt="CSS 20%"> <img src="https://img.shields.io/badge/HTML%2017%25-E34F26?style=flat-square" alt="HTML 17%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/budget-2b2d42?style=flat-square" alt="budget"> <img src="https://img.shields.io/badge/cost--of--living-2b2d42?style=flat-square" alt="cost-of-living"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/javascript-2b2d42?style=flat-square" alt="javascript"> <img src="https://img.shields.io/badge/travel-2b2d42?style=flat-square" alt="travel"></p>
+<p><a href="https://github.com/Arnold-RG/AbroadCost">Code</a> · <a href="https://arnold-rg.github.io/AbroadCost/">Live</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/arnold-portfolio">arnold-portfolio</a></h3>
+<p>Engineering folio and resume for a computer engineer: software, cybersecurity, networks, and applied machine learning.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2048%25-E34F26?style=flat-square" alt="HTML 48%"> <img src="https://img.shields.io/badge/JavaScript%2030%25-F7DF1E?style=flat-square" alt="JavaScript 30%"> <img src="https://img.shields.io/badge/CSS%2022%25-663399?style=flat-square" alt="CSS 22%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/computer--engineer-2b2d42?style=flat-square" alt="computer-engineer"> <img src="https://img.shields.io/badge/css-2b2d42?style=flat-square" alt="css"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/portfolio-2b2d42?style=flat-square" alt="portfolio"> <img src="https://img.shields.io/badge/resume-2b2d42?style=flat-square" alt="resume"></p>
+<p><a href="https://github.com/Arnold-RG/arnold-portfolio">Code</a> · <a href="https://arnold-rg.github.io/arnold-portfolio/">Live</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/Arnold-RG">Arnold-RG</a></h3>
+<p>Computer Engineer. Public profile for Arnold Rurangwa — software, Linux, IT support, and cybersecurity / SOC.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2086%25-3776AB?style=flat-square" alt="Python 86%"> <img src="https://img.shields.io/badge/CSS%206%25-663399?style=flat-square" alt="CSS 6%"> <img src="https://img.shields.io/badge/HTML%205%25-E34F26?style=flat-square" alt="HTML 5%"> <img src="https://img.shields.io/badge/JavaScript%203%25-F7DF1E?style=flat-square" alt="JavaScript 3%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/computer--engineer-2b2d42?style=flat-square" alt="computer-engineer"> <img src="https://img.shields.io/badge/cybersecurity-2b2d42?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/it--support-2b2d42?style=flat-square" alt="it-support"> <img src="https://img.shields.io/badge/linux-2b2d42?style=flat-square" alt="linux"> <img src="https://img.shields.io/badge/profile-2b2d42?style=flat-square" alt="profile"> <img src="https://img.shields.io/badge/systems-2b2d42?style=flat-square" alt="systems"></p>
+<p><a href="https://github.com/Arnold-RG/Arnold-RG">Code</a> · <a href="https://arnold-rg.github.io/Arnold-RG/">Live</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/Boutique-la-difference">Boutique-la-difference</a></h3>
+<p>Neighborhood supermarket storefront in Zindiro, Kigali — food, drinks, electronics, home goods, tools, and body products. Public shop on GitHub Pages; no customer account.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2051%25-F7DF1E?style=flat-square" alt="JavaScript 51%"> <img src="https://img.shields.io/badge/CSS%2029%25-663399?style=flat-square" alt="CSS 29%"> <img src="https://img.shields.io/badge/HTML%2020%25-E34F26?style=flat-square" alt="HTML 20%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/css-2b2d42?style=flat-square" alt="css"> <img src="https://img.shields.io/badge/ecommerce-2b2d42?style=flat-square" alt="ecommerce"> <img src="https://img.shields.io/badge/excel-2b2d42?style=flat-square" alt="excel"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/javascript-2b2d42?style=flat-square" alt="javascript"> <img src="https://img.shields.io/badge/rwanda-2b2d42?style=flat-square" alt="rwanda"> <img src="https://img.shields.io/badge/storefront-2b2d42?style=flat-square" alt="storefront"></p>
+<p><a href="https://github.com/Arnold-RG/Boutique-la-difference">Code</a> · <a href="https://arnold-rg.github.io/Boutique-la-difference/">Live</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/elvora">elvora</a></h3>
+<p>On-device AI health coach for food, training, hydration, and recovery. Flutter — iOS, Android, and web.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Dart%2081%25-0175C2?style=flat-square" alt="Dart 81%"> <img src="https://img.shields.io/badge/Python%206%25-3776AB?style=flat-square" alt="Python 6%"> <img src="https://img.shields.io/badge/HTML%204%25-E34F26?style=flat-square" alt="HTML 4%"> <img src="https://img.shields.io/badge/CSS%204%25-663399?style=flat-square" alt="CSS 4%"> <img src="https://img.shields.io/badge/JavaScript%203%25-F7DF1E?style=flat-square" alt="JavaScript 3%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/ai-2b2d42?style=flat-square" alt="ai"> <img src="https://img.shields.io/badge/dart-2b2d42?style=flat-square" alt="dart"> <img src="https://img.shields.io/badge/fitness-2b2d42?style=flat-square" alt="fitness"> <img src="https://img.shields.io/badge/flutter-2b2d42?style=flat-square" alt="flutter"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/health-2b2d42?style=flat-square" alt="health"> <img src="https://img.shields.io/badge/mobile-2b2d42?style=flat-square" alt="mobile"> <img src="https://img.shields.io/badge/voice--assistant-2b2d42?style=flat-square" alt="voice-assistant"></p>
+<p><a href="https://github.com/Arnold-RG/elvora">Code</a> · <a href="https://arnold-rg.github.io/elvora/">Live</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/hamwe">hamwe</a></h3>
+<p>Hamwe Tourism plans full Rwanda tours for small groups, hosted from Kigali.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/TypeScript%2068%25-3178C6?style=flat-square" alt="TypeScript 68%"> <img src="https://img.shields.io/badge/CSS%2019%25-663399?style=flat-square" alt="CSS 19%"> <img src="https://img.shields.io/badge/JavaScript%2012%25-F7DF1E?style=flat-square" alt="JavaScript 12%"> <img src="https://img.shields.io/badge/HTML%201%25-E34F26?style=flat-square" alt="HTML 1%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/kigali-2b2d42?style=flat-square" alt="kigali"> <img src="https://img.shields.io/badge/rwanda-2b2d42?style=flat-square" alt="rwanda"> <img src="https://img.shields.io/badge/tourism-2b2d42?style=flat-square" alt="tourism"> <img src="https://img.shields.io/badge/typescript-2b2d42?style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/vite-2b2d42?style=flat-square" alt="vite"></p>
+<p><a href="https://github.com/Arnold-RG/hamwe">Code</a> · <a href="https://arnold-rg.github.io/hamwe/">Live</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/kingdom-life-krakow">kingdom-life-krakow</a></h3>
+<p>Public English church website for Kingdom Life Krakow. Sunday 12:00 at Hotel Centrum. Open to any browser.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2048%25-E34F26?style=flat-square" alt="HTML 48%"> <img src="https://img.shields.io/badge/JavaScript%2035%25-F7DF1E?style=flat-square" alt="JavaScript 35%"> <img src="https://img.shields.io/badge/CSS%2017%25-663399?style=flat-square" alt="CSS 17%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/church-2b2d42?style=flat-square" alt="church"> <img src="https://img.shields.io/badge/kingdom--life-2b2d42?style=flat-square" alt="kingdom-life"> <img src="https://img.shields.io/badge/krakow-2b2d42?style=flat-square" alt="krakow"> <img src="https://img.shields.io/badge/static--site-2b2d42?style=flat-square" alt="static-site"></p>
+<p><a href="https://github.com/Arnold-RG/kingdom-life-krakow">Code</a> · <a href="https://arnold-rg.github.io/kingdom-life-krakow/">Live</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/log-analyzer">log-analyzer</a></h3>
+<p>Find failed logons, brute force, lockouts, admin-group changes and sudo misuse in Windows Security logs and Linux auth logs</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Shell%2052%25-4EAA25?style=flat-square" alt="Shell 52%"> <img src="https://img.shields.io/badge/PowerShell%2048%25-5391FE?style=flat-square" alt="PowerShell 48%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/bash-2b2d42?style=flat-square" alt="bash"> <img src="https://img.shields.io/badge/blue--team-2b2d42?style=flat-square" alt="blue-team"> <img src="https://img.shields.io/badge/brute--force--detection-2b2d42?style=flat-square" alt="brute-force-detection"> <img src="https://img.shields.io/badge/cybersecurity-2b2d42?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/log--analysis-2b2d42?style=flat-square" alt="log-analysis"> <img src="https://img.shields.io/badge/networking-2b2d42?style=flat-square" alt="networking"> <img src="https://img.shields.io/badge/powershell-2b2d42?style=flat-square" alt="powershell"> <img src="https://img.shields.io/badge/security--tools-2b2d42?style=flat-square" alt="security-tools"></p>
+<p><a href="https://github.com/Arnold-RG/log-analyzer">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/network-monitor">network-monitor</a></h3>
+<p>Detect new devices joining your local network (ARP + ping sweep, known-devices baseline, logging and alerts) - PowerShell and bash</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/PowerShell%2051%25-5391FE?style=flat-square" alt="PowerShell 51%"> <img src="https://img.shields.io/badge/Shell%2049%25-4EAA25?style=flat-square" alt="Shell 49%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/arp-2b2d42?style=flat-square" alt="arp"> <img src="https://img.shields.io/badge/bash-2b2d42?style=flat-square" alt="bash"> <img src="https://img.shields.io/badge/cybersecurity-2b2d42?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/intrusion--detection-2b2d42?style=flat-square" alt="intrusion-detection"> <img src="https://img.shields.io/badge/network--monitoring-2b2d42?style=flat-square" alt="network-monitoring"> <img src="https://img.shields.io/badge/networking-2b2d42?style=flat-square" alt="networking"> <img src="https://img.shields.io/badge/powershell-2b2d42?style=flat-square" alt="powershell"> <img src="https://img.shields.io/badge/security--tools-2b2d42?style=flat-square" alt="security-tools"></p>
+<p><a href="https://github.com/Arnold-RG/network-monitor">Code</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/network-scanner">network-scanner</a></h3>
+<p>Discover live hosts on a local IPv4 subnet (ping sweep, reverse DNS, common-port check) in PowerShell and bash, plus a Cisco Packet Tracer VLAN/DHCP lab</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Shell%2057%25-4EAA25?style=flat-square" alt="Shell 57%"> <img src="https://img.shields.io/badge/PowerShell%2043%25-5391FE?style=flat-square" alt="PowerShell 43%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/bash-2b2d42?style=flat-square" alt="bash"> <img src="https://img.shields.io/badge/cisco--packet--tracer-2b2d42?style=flat-square" alt="cisco-packet-tracer"> <img src="https://img.shields.io/badge/cybersecurity-2b2d42?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/network--scanner-2b2d42?style=flat-square" alt="network-scanner"> <img src="https://img.shields.io/badge/networking-2b2d42?style=flat-square" alt="networking"> <img src="https://img.shields.io/badge/powershell-2b2d42?style=flat-square" alt="powershell"> <img src="https://img.shields.io/badge/security--tools-2b2d42?style=flat-square" alt="security-tools"> <img src="https://img.shields.io/badge/vlan-2b2d42?style=flat-square" alt="vlan"></p>
+<p><a href="https://github.com/Arnold-RG/network-scanner">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/our-money-hub">our-money-hub</a></h3>
+<p>Private household ledger: shared books, savings, and plans in the browser.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2080%25-F7DF1E?style=flat-square" alt="JavaScript 80%"> <img src="https://img.shields.io/badge/CSS%2019%25-663399?style=flat-square" alt="CSS 19%"> <img src="https://img.shields.io/badge/HTML%201%25-E34F26?style=flat-square" alt="HTML 1%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/budget-2b2d42?style=flat-square" alt="budget"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/household-2b2d42?style=flat-square" alt="household"> <img src="https://img.shields.io/badge/react-2b2d42?style=flat-square" alt="react"> <img src="https://img.shields.io/badge/vite-2b2d42?style=flat-square" alt="vite"></p>
+<p><a href="https://github.com/Arnold-RG/our-money-hub">Code</a> · <a href="https://arnold-rg.github.io/our-money-hub/">Live</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/peakwise">peakwise</a></h3>
+<p>Name the molecule in your mass spectrum. LC-MS/MS peaks to SMILES, in the browser.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2043%25-3776AB?style=flat-square" alt="Python 43%"> <img src="https://img.shields.io/badge/TypeScript%2035%25-3178C6?style=flat-square" alt="TypeScript 35%"> <img src="https://img.shields.io/badge/CSS%2014%25-663399?style=flat-square" alt="CSS 14%"> <img src="https://img.shields.io/badge/Jupyter%20Notebook%204%25-6F4E37?style=flat-square" alt="Jupyter Notebook 4%"> <img src="https://img.shields.io/badge/JavaScript%203%25-F7DF1E?style=flat-square" alt="JavaScript 3%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/chemistry-2b2d42?style=flat-square" alt="chemistry"> <img src="https://img.shields.io/badge/fastapi-2b2d42?style=flat-square" alt="fastapi"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/machine--learning-2b2d42?style=flat-square" alt="machine-learning"> <img src="https://img.shields.io/badge/mass--spectrometry-2b2d42?style=flat-square" alt="mass-spectrometry"> <img src="https://img.shields.io/badge/python-2b2d42?style=flat-square" alt="python"> <img src="https://img.shields.io/badge/typescript-2b2d42?style=flat-square" alt="typescript"></p>
+<p><a href="https://github.com/Arnold-RG/peakwise">Code</a> · <a href="https://arnold-rg.github.io/peakwise/">Live</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/port-scanner">port-scanner</a></h3>
+<p>TCP connect port scanner for hosts, IP ranges and CIDR blocks with banner grabbing and CSV/JSON output - PowerShell and bash</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Shell%2053%25-4EAA25?style=flat-square" alt="Shell 53%"> <img src="https://img.shields.io/badge/PowerShell%2045%25-5391FE?style=flat-square" alt="PowerShell 45%"> <img src="https://img.shields.io/badge/Python%202%25-3776AB?style=flat-square" alt="Python 2%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/banner--grabbing-2b2d42?style=flat-square" alt="banner-grabbing"> <img src="https://img.shields.io/badge/bash-2b2d42?style=flat-square" alt="bash"> <img src="https://img.shields.io/badge/cybersecurity-2b2d42?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/networking-2b2d42?style=flat-square" alt="networking"> <img src="https://img.shields.io/badge/port--scanner-2b2d42?style=flat-square" alt="port-scanner"> <img src="https://img.shields.io/badge/powershell-2b2d42?style=flat-square" alt="powershell"> <img src="https://img.shields.io/badge/security--tools-2b2d42?style=flat-square" alt="security-tools"> <img src="https://img.shields.io/badge/tcp-2b2d42?style=flat-square" alt="tcp"></p>
+<p><a href="https://github.com/Arnold-RG/port-scanner">Code</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/ragi">ragi</a></h3>
+<p>On-device private secretary for notes, money, and projects, with an optional self-hosted backend.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/TypeScript%2083%25-3178C6?style=flat-square" alt="TypeScript 83%"> <img src="https://img.shields.io/badge/CSS%2015%25-663399?style=flat-square" alt="CSS 15%"> <img src="https://img.shields.io/badge/JavaScript%201%25-F7DF1E?style=flat-square" alt="JavaScript 1%"> <img src="https://img.shields.io/badge/HTML%201%25-E34F26?style=flat-square" alt="HTML 1%"> <img src="https://img.shields.io/badge/Dockerfile%200%25-2496ED?style=flat-square" alt="Dockerfile 0%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/docker-2b2d42?style=flat-square" alt="docker"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/indexeddb-2b2d42?style=flat-square" alt="indexeddb"> <img src="https://img.shields.io/badge/typescript-2b2d42?style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/vite-2b2d42?style=flat-square" alt="vite"></p>
+<p><a href="https://github.com/Arnold-RG/ragi">Code</a> · <a href="https://arnold-rg.github.io/ragi/">Live</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/security-hardening-checker">security-hardening-checker</a></h3>
+<p>Read-only Windows and Linux security hardening audits with PASS/WARN/FAIL results, score and exit codes</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Shell%2055%25-4EAA25?style=flat-square" alt="Shell 55%"> <img src="https://img.shields.io/badge/PowerShell%2045%25-5391FE?style=flat-square" alt="PowerShell 45%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/bash-2b2d42?style=flat-square" alt="bash"> <img src="https://img.shields.io/badge/cybersecurity-2b2d42?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/hardening-2b2d42?style=flat-square" alt="hardening"> <img src="https://img.shields.io/badge/linux--security-2b2d42?style=flat-square" alt="linux-security"> <img src="https://img.shields.io/badge/networking-2b2d42?style=flat-square" alt="networking"> <img src="https://img.shields.io/badge/powershell-2b2d42?style=flat-square" alt="powershell"> <img src="https://img.shields.io/badge/security--audit-2b2d42?style=flat-square" alt="security-audit"> <img src="https://img.shields.io/badge/security--tools-2b2d42?style=flat-square" alt="security-tools"></p>
+<p><a href="https://github.com/Arnold-RG/security-hardening-checker">Code</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/STANS">STANS</a></h3>
+<p>Live OpenStreetMap traffic desk: Nominatim search, OSRM routing, GPS, weather, and Overpass points of interest.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/TypeScript%2094%25-3178C6?style=flat-square" alt="TypeScript 94%"> <img src="https://img.shields.io/badge/CSS%203%25-663399?style=flat-square" alt="CSS 3%"> <img src="https://img.shields.io/badge/Shell%201%25-4EAA25?style=flat-square" alt="Shell 1%"> <img src="https://img.shields.io/badge/JavaScript%201%25-F7DF1E?style=flat-square" alt="JavaScript 1%"> <img src="https://img.shields.io/badge/HTML%201%25-E34F26?style=flat-square" alt="HTML 1%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/leaflet-2b2d42?style=flat-square" alt="leaflet"> <img src="https://img.shields.io/badge/openstreetmap-2b2d42?style=flat-square" alt="openstreetmap"> <img src="https://img.shields.io/badge/osrm-2b2d42?style=flat-square" alt="osrm"> <img src="https://img.shields.io/badge/react-2b2d42?style=flat-square" alt="react"> <img src="https://img.shields.io/badge/routing-2b2d42?style=flat-square" alt="routing"> <img src="https://img.shields.io/badge/traffic-2b2d42?style=flat-square" alt="traffic"> <img src="https://img.shields.io/badge/typescript-2b2d42?style=flat-square" alt="typescript"></p>
+<p><a href="https://github.com/Arnold-RG/STANS">Code</a> · <a href="https://arnold-rg.github.io/STANS/">Live</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/study-atlas">study-atlas</a></h3>
+<p>Study curriculum for AI and data science: 10 stages, quizzes, tests, and original projects aligned to roadmap.sh.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2051%25-3776AB?style=flat-square" alt="Python 51%"> <img src="https://img.shields.io/badge/JavaScript%2029%25-F7DF1E?style=flat-square" alt="JavaScript 29%"> <img src="https://img.shields.io/badge/CSS%2016%25-663399?style=flat-square" alt="CSS 16%"> <img src="https://img.shields.io/badge/HTML%204%25-E34F26?style=flat-square" alt="HTML 4%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/ai-2b2d42?style=flat-square" alt="ai"> <img src="https://img.shields.io/badge/data--science-2b2d42?style=flat-square" alt="data-science"> <img src="https://img.shields.io/badge/machine--learning-2b2d42?style=flat-square" alt="machine-learning"> <img src="https://img.shields.io/badge/python-2b2d42?style=flat-square" alt="python"> <img src="https://img.shields.io/badge/quizzes-2b2d42?style=flat-square" alt="quizzes"> <img src="https://img.shields.io/badge/roadmap-2b2d42?style=flat-square" alt="roadmap"> <img src="https://img.shields.io/badge/study-2b2d42?style=flat-square" alt="study"></p>
+<p><a href="https://github.com/Arnold-RG/study-atlas">Code</a> · <a href="https://arnold-rg.github.io/study-atlas/">Live</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/vira">vira</a></h3>
+<p>Vira — Vision, Innovation, Reliability, Automation. Studio site for intelligent websites, systems, and automation.</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2035%25-F7DF1E?style=flat-square" alt="JavaScript 35%"> <img src="https://img.shields.io/badge/HTML%2033%25-E34F26?style=flat-square" alt="HTML 33%"> <img src="https://img.shields.io/badge/CSS%2031%25-663399?style=flat-square" alt="CSS 31%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/css-2b2d42?style=flat-square" alt="css"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/javascript-2b2d42?style=flat-square" alt="javascript"> <img src="https://img.shields.io/badge/krakow-2b2d42?style=flat-square" alt="krakow"> <img src="https://img.shields.io/badge/studio-2b2d42?style=flat-square" alt="studio"> <img src="https://img.shields.io/badge/website-2b2d42?style=flat-square" alt="website"></p>
+<p><a href="https://github.com/Arnold-RG/vira">Code</a> · <a href="https://arnold-rg.github.io/vira/">Live</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/worldshield-soc">worldshield-soc</a></h3>
+<p>WorldShield SOC: global cyber threat dashboard built from real public feeds, with an AI SOC analyst and automated ops</p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2058%25-3776AB?style=flat-square" alt="Python 58%"> <img src="https://img.shields.io/badge/JavaScript%2028%25-F7DF1E?style=flat-square" alt="JavaScript 28%"> <img src="https://img.shields.io/badge/HTML%208%25-E34F26?style=flat-square" alt="HTML 8%"> <img src="https://img.shields.io/badge/CSS%206%25-663399?style=flat-square" alt="CSS 6%"></p>
+<p><b>Tools</b><br><img src="https://img.shields.io/badge/cybersecurity-2b2d42?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/dashboard-2b2d42?style=flat-square" alt="dashboard"> <img src="https://img.shields.io/badge/github--actions-2b2d42?style=flat-square" alt="github-actions"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/incident--response-2b2d42?style=flat-square" alt="incident-response"> <img src="https://img.shields.io/badge/open--source--intelligence-2b2d42?style=flat-square" alt="open-source-intelligence"> <img src="https://img.shields.io/badge/security--operations-2b2d42?style=flat-square" alt="security-operations"> <img src="https://img.shields.io/badge/soc-2b2d42?style=flat-square" alt="soc"></p>
+<p><a href="https://github.com/Arnold-RG/worldshield-soc">Code</a> · <a href="https://arnold-rg.github.io/worldshield-soc/">Live</a></p>
+</td>
+</tr>
+</table>
+
+<!-- REPO-INDEX:END -->
 
 ## Education
 
