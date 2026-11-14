@@ -205,6 +205,18 @@ Each card is a live public site. The [portfolio](https://arnold-rg.github.io/arn
 </tr>
 </table>
 
+## Networking & Security Tools
+
+PowerShell and bash tools for network discovery, port scanning, device monitoring, hardening audits and log analysis. [Full overview with quick starts](security-tools.md).
+
+| Tool | What it does | CI |
+|---|---|---|
+| [Network Scanner](https://github.com/Arnold-RG/network-scanner) | Finds live hosts on a subnet and shows IP, hostname and common open ports. | [![CI](https://github.com/Arnold-RG/network-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/Arnold-RG/network-scanner/actions/workflows/ci.yml) |
+| [Port Scanner](https://github.com/Arnold-RG/port-scanner) | TCP connect scan of a host, IP range or CIDR block with port lists and ranges, timeouts, parallel probes, banner grab and CSV/JSON output. | [![CI](https://github.com/Arnold-RG/port-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/Arnold-RG/port-scanner/actions/workflows/ci.yml) |
+| [Network Monitor](https://github.com/Arnold-RG/network-monitor) | Compares devices on the network against a known-devices list and logs and alerts on new devices or IP changes. | [![CI](https://github.com/Arnold-RG/network-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/Arnold-RG/network-monitor/actions/workflows/ci.yml) |
+| [Security Hardening Checker](https://github.com/Arnold-RG/security-hardening-checker) | Read-only audit of Windows and Linux security settings (firewall, Defender, UAC, SMBv1, RDP, SSH, file permissions and more) with PASS/WARN/FAIL and a score. | [![CI](https://github.com/Arnold-RG/security-hardening-checker/actions/workflows/ci.yml/badge.svg)](https://github.com/Arnold-RG/security-hardening-checker/actions/workflows/ci.yml) |
+| [Log Analyzer](https://github.com/Arnold-RG/log-analyzer) | Finds failed logins, brute force, lockouts, new admin users and cleared logs in Windows Event Logs and Linux auth logs. | [![CI](https://github.com/Arnold-RG/log-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/Arnold-RG/log-analyzer/actions/workflows/ci.yml) |
+
 ## Selected open work
 
 A curated selection of open, non-Dependabot pull requests on public project repositories, as of 13 November 2026, Europe/Warsaw. Drafts are marked. This is not a complete list.
