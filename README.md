@@ -243,6 +243,8 @@ A curated selection of open, non-Dependabot pull requests on public project repo
 
 ## All public repositories
 
+**[Explore every repository inside and out](https://arnold-rg.github.io/Arnold-RG/overview/)**: full file structure, languages and tools for each project.
+
 <!-- REPO-INDEX:START -->
 
 Every public repository on this account (20), A to Z, with the languages (share of code, from GitHub) and tools (repository topics) each one uses. Updated automatically.
