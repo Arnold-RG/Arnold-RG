@@ -36,7 +36,7 @@ Computer engineer working across software, Linux, data quality, IT support and c
 ## GitHub stats
 
 <div align="center">
-<img src="assets/stats.svg" alt="Arnold-RG public work: 20 public repositories, 0 stars (count as of 18 November 2026), and top languages by bytes as of 13 November 2026" width="840" height="228">
+<img src="assets/stats.svg" alt="Arnold-RG public work: 20 public repositories, 0 stars (count as of 19 November 2026), and top languages by bytes as of 13 November 2026" width="840" height="228">
 </div>
 
 ## Projects
@@ -398,8 +398,8 @@ Every public repository on this account (20), A to Z, with the languages (share 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Arnold-RG/vira">ArnovaGroup (legacy repository path)</a></h3>
-<p>ArnovaGroup: websites, applications, career assistance, student mentoring, data services and business management tools for Rwanda.</p>
+<h3><a href="https://github.com/Arnold-RG/vira">vira</a></h3>
+<p>Arnova Group: studio site for websites, apps, automation and tech support for businesses in Rwanda.</p>
 <p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2035%25-F7DF1E?style=flat-square" alt="JavaScript 35%"> <img src="https://img.shields.io/badge/HTML%2033%25-E34F26?style=flat-square" alt="HTML 33%"> <img src="https://img.shields.io/badge/CSS%2031%25-663399?style=flat-square" alt="CSS 31%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/css-2b2d42?style=flat-square" alt="css"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/javascript-2b2d42?style=flat-square" alt="javascript"> <img src="https://img.shields.io/badge/krakow-2b2d42?style=flat-square" alt="krakow"> <img src="https://img.shields.io/badge/studio-2b2d42?style=flat-square" alt="studio"> <img src="https://img.shields.io/badge/website-2b2d42?style=flat-square" alt="website"></p>
 <p><a href="https://github.com/Arnold-RG/vira">Code</a> · <a href="https://arnold-rg.github.io/vira/">Live</a></p>
