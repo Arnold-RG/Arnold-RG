@@ -263,7 +263,7 @@ Every public repository on this account (20), A to Z, with the languages (share 
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/AbroadCost">AbroadCost</a></h3>
 <p>Country budget planner for 195 countries: living costs, travel budgets, and salaries.</p>
-<p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2042%25-F7DF1E?style=flat-square" alt="JavaScript 42%"> <img src="https://img.shields.io/badge/Python%2021%25-3776AB?style=flat-square" alt="Python 21%"> <img src="https://img.shields.io/badge/CSS%2020%25-663399?style=flat-square" alt="CSS 20%"> <img src="https://img.shields.io/badge/HTML%2017%25-E34F26?style=flat-square" alt="HTML 17%"></p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2041%25-F7DF1E?style=flat-square" alt="JavaScript 41%"> <img src="https://img.shields.io/badge/Python%2022%25-3776AB?style=flat-square" alt="Python 22%"> <img src="https://img.shields.io/badge/CSS%2020%25-663399?style=flat-square" alt="CSS 20%"> <img src="https://img.shields.io/badge/HTML%2017%25-E34F26?style=flat-square" alt="HTML 17%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/budget-2b2d42?style=flat-square" alt="budget"> <img src="https://img.shields.io/badge/cost--of--living-2b2d42?style=flat-square" alt="cost-of-living"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/javascript-2b2d42?style=flat-square" alt="javascript"> <img src="https://img.shields.io/badge/travel-2b2d42?style=flat-square" alt="travel"></p>
 <p><a href="https://github.com/Arnold-RG/AbroadCost">Code</a> · <a href="https://arnold-rg.github.io/AbroadCost/">Live</a></p>
 </td>
@@ -272,7 +272,7 @@ Every public repository on this account (20), A to Z, with the languages (share 
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/arnold-portfolio">arnold-portfolio</a></h3>
 <p>Engineering folio and resume for a computer engineer: software, cybersecurity, networks, and applied machine learning.</p>
-<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2051%25-E34F26?style=flat-square" alt="HTML 51%"> <img src="https://img.shields.io/badge/JavaScript%2028%25-F7DF1E?style=flat-square" alt="JavaScript 28%"> <img src="https://img.shields.io/badge/CSS%2021%25-663399?style=flat-square" alt="CSS 21%"></p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2052%25-E34F26?style=flat-square" alt="HTML 52%"> <img src="https://img.shields.io/badge/JavaScript%2026%25-F7DF1E?style=flat-square" alt="JavaScript 26%"> <img src="https://img.shields.io/badge/CSS%2020%25-663399?style=flat-square" alt="CSS 20%"> <img src="https://img.shields.io/badge/Python%201%25-3776AB?style=flat-square" alt="Python 1%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/computer--engineer-2b2d42?style=flat-square" alt="computer-engineer"> <img src="https://img.shields.io/badge/css-2b2d42?style=flat-square" alt="css"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/portfolio-2b2d42?style=flat-square" alt="portfolio"> <img src="https://img.shields.io/badge/resume-2b2d42?style=flat-square" alt="resume"></p>
 <p><a href="https://github.com/Arnold-RG/arnold-portfolio">Code</a> · <a href="https://arnold-rg.github.io/arnold-portfolio/">Live</a></p>
 </td>
@@ -288,7 +288,7 @@ Every public repository on this account (20), A to Z, with the languages (share 
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/Boutique-la-difference">Boutique-la-difference</a></h3>
 <p>Neighborhood supermarket storefront in Zindiro, Kigali — food, drinks, electronics, home goods, tools, and body products. Public shop on GitHub Pages; no customer account.</p>
-<p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2051%25-F7DF1E?style=flat-square" alt="JavaScript 51%"> <img src="https://img.shields.io/badge/CSS%2029%25-663399?style=flat-square" alt="CSS 29%"> <img src="https://img.shields.io/badge/HTML%2020%25-E34F26?style=flat-square" alt="HTML 20%"></p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2059%25-F7DF1E?style=flat-square" alt="JavaScript 59%"> <img src="https://img.shields.io/badge/HTML%2030%25-E34F26?style=flat-square" alt="HTML 30%"> <img src="https://img.shields.io/badge/CSS%2011%25-663399?style=flat-square" alt="CSS 11%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/css-2b2d42?style=flat-square" alt="css"> <img src="https://img.shields.io/badge/ecommerce-2b2d42?style=flat-square" alt="ecommerce"> <img src="https://img.shields.io/badge/excel-2b2d42?style=flat-square" alt="excel"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/javascript-2b2d42?style=flat-square" alt="javascript"> <img src="https://img.shields.io/badge/rwanda-2b2d42?style=flat-square" alt="rwanda"> <img src="https://img.shields.io/badge/storefront-2b2d42?style=flat-square" alt="storefront"></p>
 <p><a href="https://github.com/Arnold-RG/Boutique-la-difference">Code</a> · <a href="https://arnold-rg.github.io/Boutique-la-difference/">Live</a></p>
 </td>
@@ -311,7 +311,7 @@ Every public repository on this account (20), A to Z, with the languages (share 
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/kingdom-life-krakow">kingdom-life-krakow</a></h3>
 <p>Public English church website for Kingdom Life Krakow. Sunday 12:00 at Hotel Centrum. Open to any browser.</p>
-<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2048%25-E34F26?style=flat-square" alt="HTML 48%"> <img src="https://img.shields.io/badge/JavaScript%2035%25-F7DF1E?style=flat-square" alt="JavaScript 35%"> <img src="https://img.shields.io/badge/CSS%2017%25-663399?style=flat-square" alt="CSS 17%"></p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2047%25-E34F26?style=flat-square" alt="HTML 47%"> <img src="https://img.shields.io/badge/JavaScript%2035%25-F7DF1E?style=flat-square" alt="JavaScript 35%"> <img src="https://img.shields.io/badge/CSS%2016%25-663399?style=flat-square" alt="CSS 16%"> <img src="https://img.shields.io/badge/Python%201%25-3776AB?style=flat-square" alt="Python 1%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/church-2b2d42?style=flat-square" alt="church"> <img src="https://img.shields.io/badge/kingdom--life-2b2d42?style=flat-square" alt="kingdom-life"> <img src="https://img.shields.io/badge/krakow-2b2d42?style=flat-square" alt="krakow"> <img src="https://img.shields.io/badge/static--site-2b2d42?style=flat-square" alt="static-site"></p>
 <p><a href="https://github.com/Arnold-RG/kingdom-life-krakow">Code</a> · <a href="https://arnold-rg.github.io/kingdom-life-krakow/">Live</a></p>
 </td>
@@ -400,7 +400,7 @@ Every public repository on this account (20), A to Z, with the languages (share 
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/vira">ArnovaGroup</a></h3>
 <p>Rwanda-focused websites, apps, career assistance, student mentoring, data analysis and business systems.</p>
-<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2097%25-E34F26?style=flat-square" alt="HTML 97%"> <img src="https://img.shields.io/badge/JavaScript%203%25-F7DF1E?style=flat-square" alt="JavaScript 3%"></p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2096%25-E34F26?style=flat-square" alt="HTML 96%"> <img src="https://img.shields.io/badge/JavaScript%204%25-F7DF1E?style=flat-square" alt="JavaScript 4%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/css-2b2d42?style=flat-square" alt="css"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/javascript-2b2d42?style=flat-square" alt="javascript"> <img src="https://img.shields.io/badge/krakow-2b2d42?style=flat-square" alt="krakow"> <img src="https://img.shields.io/badge/studio-2b2d42?style=flat-square" alt="studio"> <img src="https://img.shields.io/badge/website-2b2d42?style=flat-square" alt="website"></p>
 <p><a href="https://github.com/Arnold-RG/vira">Code</a> · <a href="https://arnold-rg.github.io/vira/">Live</a></p>
 </td>
