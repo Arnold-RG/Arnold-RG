@@ -57,6 +57,9 @@ def badge(label, color):
 
 def card(r):
     """One project card: name, description, languages with share, and tools (repo topics)."""
+    is_arnova = r["name"].lower() in ("vira", "arnovagroup")
+    display_name = "ArnovaGroup" if is_arnova else r["name"]
+    display_description = ("Rwanda-focused websites, apps, career assistance, student mentoring, data analysis and business systems." if is_arnova else r["description"])
     langs = get_json(r["languages_url"]) or {}
     total = sum(langs.values()) or 1
     top = sorted(langs.items(), key=lambda kv: -kv[1])[:5]
@@ -66,8 +69,8 @@ def card(r):
     links = f'<a href="{r["html_url"]}">Code</a>'
     if r.get("homepage"):
         links += f' · <a href="{r["homepage"]}">Live</a>'
-    return (f'<td width="50%" valign="top">\n<h3><a href="{r["html_url"]}">{cell(r["name"])}</a></h3>\n'
-            f'<p>{cell(r["description"])}</p>\n<p><b>Languages</b><br>{lang_badges}</p>\n'
+    return (f'<td width="50%" valign="top">\n<h3><a href="{r["html_url"]}">{cell(display_name)}</a></h3>\n'
+            f'<p>{cell(display_description)}</p>\n<p><b>Languages</b><br>{lang_badges}</p>\n'
             f'<p><b>Tools</b><br>{tool_badges}</p>\n<p>{links}</p>\n</td>')
 
 
