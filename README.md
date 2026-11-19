@@ -423,3 +423,17 @@ Every public repository on this account (20), A to Z, with the languages (share 
 ## Security
 
 Vulnerability reports for any Arnold-RG project: see each repository’s `SECURITY.md`, or email **rurangwaarnold32@gmail.com**. Prefer private disclosure for unpatched findings.
+
+---
+
+## Repository governance and release verification
+
+This profile links to active engineering work; repository documentation and deployment status belong to the individual source repositories.
+
+- **Architecture:** refer to each project's root README, source files and actual stack. A badge or screenshot is not evidence of a working backend.
+- **Development:** use reviewed commits and tests that match the project (Flutter, web, Python, shell, PowerShell or infrastructure).
+- **Security:** avoid exposing secrets, personal data or credentials in public demos and code samples.
+- **Release management:** verify the current Actions build and deployment before labeling a project "live" or "production-ready"; record any failed tests and limitations.
+- **Commercial demos:** distinguish independently produced concepts from approved customer projects. Production publishing, client outreach and purchases require the owner's authorization.
+
+For ArnovaGroup service and design standards, see [the agency repository](https://github.com/Arnold-RG/vira).
