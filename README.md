@@ -2,7 +2,7 @@
 <img src="assets/header.svg" alt="Arnold Rurangwa, Computer Engineer" width="900" height="210">
 
 <p>
-<a href="https://arnold-rg.github.io/arnold-portfolio/">Portfolio</a>
+<a href="https://arnold-rg.github.io/arnold-portfolio/">Portfolio</a> &nbsp;·&nbsp; <a href="https://arnold-rg.github.io/arnold-portfolio/resume.html">Official CV</a>
 &nbsp;·&nbsp;
 <a href="https://arnold-rg.github.io/Arnold-RG/">Profile</a>
 &nbsp;·&nbsp;
@@ -18,7 +18,7 @@
 
 Computer engineer working across software, Linux, data quality, IT support and cybersecurity. I build useful applications and systems, document my work, and keep developing new projects through practice.
 
-**Current work:** Senior Process Specialist at Cognizant, with map/business listing review, record verification and quality follow-up. **Entrepreneurship:** [ArnovaGroup](https://arnold-rg.github.io/vira/) — a Rwanda-focused initiative for websites, applications, career guidance, student technical mentoring, data analysis and management solutions.
+**Current work:** Data Analyst at Cognizant, with map/business listing review, record verification and quality follow-up. **Entrepreneurship:** [ArnovaGroup](https://arnold-rg.github.io/vira/) — a Rwanda-focused initiative for websites, applications, career guidance, student technical mentoring, data analysis and management solutions.
 
 ## Stack
 
