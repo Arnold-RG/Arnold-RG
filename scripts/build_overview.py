@@ -89,6 +89,9 @@ def count_files(node):
 
 
 def card(repo):
+    is_arnova = repo["name"].lower() in ("vira", "arnovagroup")
+    display_name = "ArnovaGroup" if is_arnova else repo["name"]
+    display_description = ("Rwanda-focused websites, apps, career support, student mentoring, data analysis and business solutions." if is_arnova else repo.get("description") or "")
     langs = api(repo["languages_url"]) or {}
     total = sum(langs.values()) or 1
     entries, truncated = tree_of(repo)
@@ -112,8 +115,8 @@ def card(repo):
     updated = repo["pushed_at"][:10]
     note = '<p class="muted">Tree truncated by GitHub for size.</p>' if truncated else ""
     return f'''<article class="card" id="{html.escape(repo["name"])}" data-name="{html.escape(repo["name"].lower())}" data-lang="{html.escape(" ".join(langs).lower())}">
-<header><h2>{html.escape(repo["name"])}</h2><span class="muted">updated {updated}</span></header>
-<p>{html.escape(repo.get("description") or "")}</p>
+<header><h2>{html.escape(display_name)}</h2><span class="muted">updated {updated}</span></header>
+<p>{html.escape(display_description)}</p>
 <div class="stats"><div><b>{len(files)}</b><span>files</span></div><div><b>{len(langs)}</b><span>languages</span></div><div><b>{repo["size"]:,} KB</b><span>size</span></div><div><b>{html.escape(repo["default_branch"])}</b><span>branch</span></div></div>
 <h3>Languages</h3><div class="bar">{bar}</div><ul class="legend">{legend or "<li>None detected</li>"}</ul>
 <h3>Tools</h3><div class="chips">{chips}{dchips or ""}</div>
@@ -144,7 +147,7 @@ def main():
 <div class="kpis"><div><b>{len(rs)}</b><span>repos</span></div><div><b>{len(total_lang)}</b><span>languages</span></div></div></header>
 <section class="overall"><h3>Languages across all repos</h3><ul class="legend">{top}</ul>
 <input id="q" type="search" placeholder="Filter by name or language" aria-label="Filter repositories"></section>
-<nav class="index">{"".join(f'<a href="#{html.escape(r["name"])}">{html.escape(r["name"])}</a>' for r in rs)}</nav>
+<nav class="index">{"".join(f'<a href="#{html.escape(r["name"])}">{html.escape("ArnovaGroup" if r["name"].lower() in ("vira", "arnovagroup") else r["name"])}</a>' for r in rs)}</nav>
 <main class="grid">{"".join(cards)}</main>
 <footer class="bottom"><a href="https://github.com/{USER}">github.com/{USER}</a></footer>
 <script src="overview.js"></script></body></html>''')
