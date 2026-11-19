@@ -16,7 +16,9 @@
 
 ## About
 
-Computer engineer working in software, Linux and IT support, and cybersecurity / SOC. I design understandable systems, careful interfaces, and explicit security boundaries.
+Computer engineer working across software, Linux, data quality, IT support and cybersecurity. I build useful applications and systems, document my work, and keep developing new projects through practice.
+
+**Current work:** Senior Process Specialist at Cognizant, with map/business listing review, record verification and quality follow-up. **Entrepreneurship:** [ArnovaGroup](https://arnold-rg.github.io/vira/) — a Rwanda-focused initiative for websites, applications, career guidance, student technical mentoring, data analysis and management solutions.
 
 ## Stack
 
@@ -94,9 +96,9 @@ Each card is a live public site. The [portfolio](https://arnold-rg.github.io/arn
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://arnold-rg.github.io/vira/"><img src="assets/projects/vira.webp" alt="Vira live site" width="400"></a>
-<h3>Vira</h3>
-<p>Studio site for intelligent websites, systems, and automation.</p>
+<a href="https://arnold-rg.github.io/vira/"><img src="https://arnold-rg.github.io/vira/logo.svg" alt="ArnovaGroup symbol" width="400"></a>
+<h3>ArnovaGroup</h3>
+<p>Rwanda-focused digital services, career guidance, data analysis, student mentorship and small-business systems.</p>
 <p>
 <a href="https://arnold-rg.github.io/vira/">Live</a> ·
 <a href="https://github.com/Arnold-RG/vira">GitHub</a><br>
@@ -396,8 +398,8 @@ Every public repository on this account (20), A to Z, with the languages (share 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Arnold-RG/vira">vira</a></h3>
-<p>Arnova Group: studio site for websites, apps, automation and tech support for businesses in Rwanda.</p>
+<h3><a href="https://github.com/Arnold-RG/vira">ArnovaGroup (legacy repository path)</a></h3>
+<p>ArnovaGroup: websites, applications, career assistance, student mentoring, data services and business management tools for Rwanda.</p>
 <p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2035%25-F7DF1E?style=flat-square" alt="JavaScript 35%"> <img src="https://img.shields.io/badge/HTML%2033%25-E34F26?style=flat-square" alt="HTML 33%"> <img src="https://img.shields.io/badge/CSS%2031%25-663399?style=flat-square" alt="CSS 31%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/css-2b2d42?style=flat-square" alt="css"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/javascript-2b2d42?style=flat-square" alt="javascript"> <img src="https://img.shields.io/badge/krakow-2b2d42?style=flat-square" alt="krakow"> <img src="https://img.shields.io/badge/studio-2b2d42?style=flat-square" alt="studio"> <img src="https://img.shields.io/badge/website-2b2d42?style=flat-square" alt="website"></p>
 <p><a href="https://github.com/Arnold-RG/vira">Code</a> · <a href="https://arnold-rg.github.io/vira/">Live</a></p>
