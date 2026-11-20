@@ -256,7 +256,7 @@ Every public repository on this account (20), A to Z, with the languages (share 
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/2daymovie">2daymovie</a></h3>
 <p>2daymovie — legal movie discovery: official HD trailers, browse, and where to watch. No full-film streaming.</p>
-<p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2069%25-3776AB?style=flat-square" alt="Python 69%"> <img src="https://img.shields.io/badge/HTML%2015%25-E34F26?style=flat-square" alt="HTML 15%"> <img src="https://img.shields.io/badge/CSS%2011%25-663399?style=flat-square" alt="CSS 11%"> <img src="https://img.shields.io/badge/JavaScript%206%25-F7DF1E?style=flat-square" alt="JavaScript 6%"> <img src="https://img.shields.io/badge/Dockerfile%200%25-2496ED?style=flat-square" alt="Dockerfile 0%"></p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2068%25-3776AB?style=flat-square" alt="Python 68%"> <img src="https://img.shields.io/badge/HTML%2015%25-E34F26?style=flat-square" alt="HTML 15%"> <img src="https://img.shields.io/badge/CSS%2010%25-663399?style=flat-square" alt="CSS 10%"> <img src="https://img.shields.io/badge/JavaScript%206%25-F7DF1E?style=flat-square" alt="JavaScript 6%"> <img src="https://img.shields.io/badge/Dockerfile%200%25-2496ED?style=flat-square" alt="Dockerfile 0%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/docker-2b2d42?style=flat-square" alt="docker"> <img src="https://img.shields.io/badge/flask-2b2d42?style=flat-square" alt="flask"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/movies-2b2d42?style=flat-square" alt="movies"> <img src="https://img.shields.io/badge/python-2b2d42?style=flat-square" alt="python"> <img src="https://img.shields.io/badge/trailers-2b2d42?style=flat-square" alt="trailers"></p>
 <p><a href="https://github.com/Arnold-RG/2daymovie">Code</a> · <a href="https://arnold-rg.github.io/2daymovie/">Live</a></p>
 </td>
@@ -400,7 +400,7 @@ Every public repository on this account (20), A to Z, with the languages (share 
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/vira">ArnovaGroup</a></h3>
 <p>Rwanda-focused websites, apps, career assistance, student mentoring, data analysis and business systems.</p>
-<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2096%25-E34F26?style=flat-square" alt="HTML 96%"> <img src="https://img.shields.io/badge/JavaScript%204%25-F7DF1E?style=flat-square" alt="JavaScript 4%"></p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2097%25-E34F26?style=flat-square" alt="HTML 97%"> <img src="https://img.shields.io/badge/JavaScript%203%25-F7DF1E?style=flat-square" alt="JavaScript 3%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/css-2b2d42?style=flat-square" alt="css"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/javascript-2b2d42?style=flat-square" alt="javascript"> <img src="https://img.shields.io/badge/krakow-2b2d42?style=flat-square" alt="krakow"> <img src="https://img.shields.io/badge/studio-2b2d42?style=flat-square" alt="studio"> <img src="https://img.shields.io/badge/website-2b2d42?style=flat-square" alt="website"></p>
 <p><a href="https://github.com/Arnold-RG/vira">Code</a> · <a href="https://arnold-rg.github.io/vira/">Live</a></p>
 </td>
