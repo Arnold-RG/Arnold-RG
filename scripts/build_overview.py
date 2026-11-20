@@ -89,8 +89,8 @@ def count_files(node):
 
 
 def card(repo):
-    is_arnova = repo["name"].lower() in ("vira", "arnovagroup")
-    display_name = "ArnovaGroup" if is_arnova else repo["name"]
+    is_arnova = repo["name"].lower() in ("arnova-group-agency", "vira", "arnovagroup")
+    display_name = "Arnova Group Agency" if is_arnova else repo["name"]
     display_description = ("Rwanda-focused websites, apps, career support, student mentoring, data analysis and business solutions." if is_arnova else repo.get("description") or "")
     langs = api(repo["languages_url"]) or {}
     total = sum(langs.values()) or 1
@@ -147,7 +147,7 @@ def main():
 <div class="kpis"><div><b>{len(rs)}</b><span>repos</span></div><div><b>{len(total_lang)}</b><span>languages</span></div></div></header>
 <section class="overall"><h3>Languages across all repos</h3><ul class="legend">{top}</ul>
 <input id="q" type="search" placeholder="Filter by name or language" aria-label="Filter repositories"></section>
-<nav class="index">{"".join(f'<a href="#{html.escape(r["name"])}">{html.escape("ArnovaGroup" if r["name"].lower() in ("vira", "arnovagroup") else r["name"])}</a>' for r in rs)}</nav>
+<nav class="index">{"".join(f'<a href="#{html.escape(r["name"])}">{html.escape("Arnova Group Agency" if r["name"].lower() in ("arnova-group-agency", "vira", "arnovagroup") else r["name"])}</a>' for r in rs)}</nav>
 <main class="grid">{"".join(cards)}</main>
 <footer class="bottom"><a href="https://github.com/{USER}">github.com/{USER}</a></footer>
 <script src="overview.js"></script></body></html>''')

@@ -55,8 +55,7 @@ STACK_ICONS: dict[str, list[str]] = {
     "peakwise": ["py", "fastapi", "react", "ts"],
     "ragi": ["ts", "prisma", "vite", "docker"],
     "STANS": ["ts", "react", "vite", "docker"],
-    "vira": ["html", "css", "js"],
-    "Vira-HQ": ["html", "css"],
+    "arnova-group-agency": ["html", "css", "js"],
     "worldshield-soc": ["py", "js", "html"],
 }
 
@@ -74,8 +73,7 @@ DISPLAY_NAME: dict[str, str] = {
     "peakwise": "Peakwise",
     "ragi": "RAGI",
     "STANS": "STANS",
-    "vira": "Vira",
-    "Vira-HQ": "Vira HQ",
+    "arnova-group-agency": "Arnova Group Agency",
     "worldshield-soc": "WorldShield SOC",
 }
 

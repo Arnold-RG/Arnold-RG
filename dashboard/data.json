@@ -706,35 +706,16 @@
       "stars": 0
     },
     {
-      "name": "vira",
-      "url": "https://github.com/Arnold-RG/vira",
-      "description": "Vira — Vision, Innovation, Reliability, Automation. Studio site for intelligent websites, systems, and automation.",
+      "name": "arnova-group-agency",
+      "url": "https://github.com/Arnold-RG/arnova-group-agency",
+      "description": "Arnova Group Agency — Vision, Innovation, Reliability, Automation. Studio site for intelligent websites, systems, and automation.",
       "language": "HTML",
       "pushedAt": "2026-11-13T01:31:00Z",
       "pushedAtLocal": "13 Nov 2026, 02:31",
       "commits_30": 7,
       "commits_90": 7,
       "commits_365": 7,
-      "pages_url": "https://arnold-rg.github.io/vira/",
-      "pages_http": 200,
-      "live_label": "Live",
-      "pr_count": 0,
-      "issue_count": 0,
-      "ci_label": "Passing",
-      "status": "Live",
-      "stars": 0
-    },
-    {
-      "name": "Vira-HQ",
-      "url": "https://github.com/Arnold-RG/Vira-HQ",
-      "description": "Vira HQ — public project index for work published under Arnold-RG.",
-      "language": "HTML",
-      "pushedAt": "2026-11-13T00:44:12Z",
-      "pushedAtLocal": "13 Nov 2026, 01:44",
-      "commits_30": 2,
-      "commits_90": 2,
-      "commits_365": 2,
-      "pages_url": "https://arnold-rg.github.io/Vira-HQ/",
+      "pages_url": "https://arnold-rg.github.io/arnova-group-agency/",
       "pages_http": 200,
       "live_label": "Live",
       "pr_count": 0,
@@ -1153,13 +1134,13 @@
   "events": [
     {
       "type": "push",
-      "repo": "vira",
+      "repo": "arnova-group-agency",
       "createdAt": "2026-11-13T01:21:31Z",
       "branch": "main",
       "commits": null,
       "messages": [],
       "head": "16340c4540b7f1e8fe974819b4e9e59c57d22e84",
-      "url": "https://github.com/Arnold-RG/vira"
+      "url": "https://github.com/Arnold-RG/arnova-group-agency"
     },
     {
       "type": "push",

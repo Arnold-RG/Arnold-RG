@@ -18,7 +18,7 @@
 
 Computer engineer working across software, Linux, data quality, IT support and cybersecurity. I build useful applications and systems, document my work, and keep developing new projects through practice.
 
-**Current work:** Data Analyst at Cognizant, with map/business listing review, record verification and quality follow-up. **Entrepreneurship:** [ArnovaGroup](https://arnold-rg.github.io/vira/) — a Rwanda-focused initiative for websites, applications, career guidance, student technical mentoring, data analysis and management solutions.
+**Current work:** Data Analyst at Cognizant, with map/business listing review, record verification and quality follow-up. **Entrepreneurship:** [Arnova Group Agency](https://arnold-rg.github.io/arnova-group-agency/) — a Rwanda-focused initiative for websites, applications, career guidance, student technical mentoring, data analysis and management solutions.
 
 ## Stack
 
@@ -96,13 +96,13 @@ Each card is a live public site. The [portfolio](https://arnold-rg.github.io/arn
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://arnold-rg.github.io/vira/"><img src="https://arnold-rg.github.io/vira/logo.svg" alt="ArnovaGroup symbol" width="400"></a>
-<h3>ArnovaGroup</h3>
+<a href="https://arnold-rg.github.io/arnova-group-agency/"><img src="https://arnold-rg.github.io/arnova-group-agency/logo.svg" alt="Arnova Group Agency symbol" width="400"></a>
+<h3>Arnova Group Agency</h3>
 <p>Rwanda-focused digital services, career guidance, data analysis, student mentorship and small-business systems.</p>
 <p>
-<a href="https://arnold-rg.github.io/vira/">Live</a> ·
-<a href="https://github.com/Arnold-RG/vira">GitHub</a><br>
-<img src="https://img.shields.io/website?url=https%3A%2F%2Farnold-rg.github.io%2Fvira%2F&amp;label=Pages&amp;up_message=live&amp;up_color=3fb950&amp;down_message=down&amp;down_color=da3633" alt="Pages status">
+<a href="https://arnold-rg.github.io/arnova-group-agency/">Live</a> ·
+<a href="https://github.com/Arnold-RG/arnova-group-agency">GitHub</a><br>
+<img src="https://img.shields.io/website?url=https%3A%2F%2Farnold-rg.github.io%2Farnova-group-agency%2F&amp;label=Pages&amp;up_message=live&amp;up_color=3fb950&amp;down_message=down&amp;down_color=da3633" alt="Pages status">
 <img src="https://skillicons.dev/icons?i=html,css,js&amp;theme=dark" alt="HTML, CSS, JavaScript" height="24">
 </p>
 </td>
@@ -398,11 +398,11 @@ Every public repository on this account (20), A to Z, with the languages (share 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Arnold-RG/vira">ArnovaGroup</a></h3>
+<h3><a href="https://github.com/Arnold-RG/arnova-group-agency">Arnova Group Agency</a></h3>
 <p>Rwanda-focused websites, apps, career assistance, student mentoring, data analysis and business systems.</p>
 <p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2097%25-E34F26?style=flat-square" alt="HTML 97%"> <img src="https://img.shields.io/badge/JavaScript%203%25-F7DF1E?style=flat-square" alt="JavaScript 3%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/css-2b2d42?style=flat-square" alt="css"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/html-2b2d42?style=flat-square" alt="html"> <img src="https://img.shields.io/badge/javascript-2b2d42?style=flat-square" alt="javascript"> <img src="https://img.shields.io/badge/krakow-2b2d42?style=flat-square" alt="krakow"> <img src="https://img.shields.io/badge/studio-2b2d42?style=flat-square" alt="studio"> <img src="https://img.shields.io/badge/website-2b2d42?style=flat-square" alt="website"></p>
-<p><a href="https://github.com/Arnold-RG/vira">Code</a> · <a href="https://arnold-rg.github.io/vira/">Live</a></p>
+<p><a href="https://github.com/Arnold-RG/arnova-group-agency">Code</a> · <a href="https://arnold-rg.github.io/arnova-group-agency/">Live</a></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/worldshield-soc">worldshield-soc</a></h3>
@@ -436,4 +436,4 @@ This profile links to active engineering work; repository documentation and depl
 - **Release management:** verify the current Actions build and deployment before labeling a project "live" or "production-ready"; record any failed tests and limitations.
 - **Commercial demos:** distinguish independently produced concepts from approved customer projects. Production publishing, client outreach and purchases require the owner's authorization.
 
-For ArnovaGroup service and design standards, see [the agency repository](https://github.com/Arnold-RG/vira).
+For Arnova Group Agency service and design standards, see [the agency repository](https://github.com/Arnold-RG/arnova-group-agency).

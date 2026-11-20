@@ -57,8 +57,8 @@ def badge(label, color):
 
 def card(r):
     """One project card: name, description, languages with share, and tools (repo topics)."""
-    is_arnova = r["name"].lower() in ("vira", "arnovagroup")
-    display_name = "ArnovaGroup" if is_arnova else r["name"]
+    is_arnova = r["name"].lower() in ("arnova-group-agency", "vira", "arnovagroup")
+    display_name = "Arnova Group Agency" if is_arnova else r["name"]
     display_description = ("Rwanda-focused websites, apps, career assistance, student mentoring, data analysis and business systems." if is_arnova else r["description"])
     langs = get_json(r["languages_url"]) or {}
     total = sum(langs.values()) or 1
