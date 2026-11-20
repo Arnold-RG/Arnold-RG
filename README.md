@@ -36,7 +36,7 @@ Computer engineer working across software, Linux, data quality, IT support and c
 ## GitHub stats
 
 <div align="center">
-<img src="assets/stats.svg" alt="Arnold-RG public work: 20 public repositories, 0 stars (count as of 19 November 2026), and top languages by bytes as of 13 November 2026" width="840" height="228">
+<img src="assets/stats.svg" alt="Arnold-RG public work: 20 public repositories, 0 stars (count as of 20 November 2026), and top languages by bytes as of 13 November 2026" width="840" height="228">
 </div>
 
 ## Projects
