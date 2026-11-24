@@ -706,8 +706,8 @@
       "stars": 0
     },
     {
-      "name": "arnova-group-agency",
-      "url": "https://github.com/Arnold-RG/arnova-group-agency",
+      "name": "arnova-group",
+      "url": "https://github.com/Arnold-RG/arnova-group",
       "description": "Arnova Group Agency — Vision, Innovation, Reliability, Automation. Studio site for intelligent websites, systems, and automation.",
       "language": "HTML",
       "pushedAt": "2026-11-13T01:31:00Z",
@@ -715,7 +715,7 @@
       "commits_30": 7,
       "commits_90": 7,
       "commits_365": 7,
-      "pages_url": "https://arnold-rg.github.io/arnova-group-agency/",
+      "pages_url": "https://arnold-rg.github.io/arnova-group/",
       "pages_http": 200,
       "live_label": "Live",
       "pr_count": 0,
@@ -1134,13 +1134,13 @@
   "events": [
     {
       "type": "push",
-      "repo": "arnova-group-agency",
+      "repo": "arnova-group",
       "createdAt": "2026-11-13T01:21:31Z",
       "branch": "main",
       "commits": null,
       "messages": [],
       "head": "16340c4540b7f1e8fe974819b4e9e59c57d22e84",
-      "url": "https://github.com/Arnold-RG/arnova-group-agency"
+      "url": "https://github.com/Arnold-RG/arnova-group"
     },
     {
       "type": "push",
