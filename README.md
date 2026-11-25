@@ -36,7 +36,7 @@ Computer engineer working across software, Linux, data quality, IT support and c
 ## GitHub stats
 
 <div align="center">
-<img src="assets/stats.svg" alt="Arnold-RG public work: 20 public repositories, 0 stars (count as of 24 November 2026), and top languages by bytes as of 13 November 2026" width="840" height="228">
+<img src="assets/stats.svg" alt="Arnold-RG public work: 18 public repositories, 0 stars (count as of 25 November 2026), and top languages by bytes as of 13 November 2026" width="840" height="228">
 </div>
 
 ## Projects
@@ -249,7 +249,7 @@ A curated selection of open, non-Dependabot pull requests on public project repo
 
 <!-- REPO-INDEX:START -->
 
-Every public repository on this account (20), A to Z, with the languages (share of code, from GitHub) and tools (repository topics) each one uses. Updated automatically.
+Every public repository on this account (18), A to Z, with the languages (share of code, from GitHub) and tools (repository topics) each one uses. Updated automatically.
 
 <table>
 <tr>
@@ -350,34 +350,18 @@ Every public repository on this account (20), A to Z, with the languages (share 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Arnold-RG/our-money-hub">our-money-hub</a></h3>
-<p>Private household ledger: shared books, savings, and plans in the browser.</p>
-<p><b>Languages</b><br><img src="https://img.shields.io/badge/JavaScript%2080%25-F7DF1E?style=flat-square" alt="JavaScript 80%"> <img src="https://img.shields.io/badge/CSS%2019%25-663399?style=flat-square" alt="CSS 19%"> <img src="https://img.shields.io/badge/HTML%201%25-E34F26?style=flat-square" alt="HTML 1%"></p>
-<p><b>Tools</b><br><img src="https://img.shields.io/badge/budget-2b2d42?style=flat-square" alt="budget"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/household-2b2d42?style=flat-square" alt="household"> <img src="https://img.shields.io/badge/react-2b2d42?style=flat-square" alt="react"> <img src="https://img.shields.io/badge/vite-2b2d42?style=flat-square" alt="vite"></p>
-<p><a href="https://github.com/Arnold-RG/our-money-hub">Code</a> · <a href="https://arnold-rg.github.io/our-money-hub/">Live</a></p>
-</td>
-<td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/peakwise">peakwise</a></h3>
 <p>Name the molecule in your mass spectrum. LC-MS/MS peaks to SMILES, in the browser.</p>
 <p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2043%25-3776AB?style=flat-square" alt="Python 43%"> <img src="https://img.shields.io/badge/TypeScript%2035%25-3178C6?style=flat-square" alt="TypeScript 35%"> <img src="https://img.shields.io/badge/CSS%2014%25-663399?style=flat-square" alt="CSS 14%"> <img src="https://img.shields.io/badge/Jupyter%20Notebook%204%25-6F4E37?style=flat-square" alt="Jupyter Notebook 4%"> <img src="https://img.shields.io/badge/JavaScript%203%25-F7DF1E?style=flat-square" alt="JavaScript 3%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/chemistry-2b2d42?style=flat-square" alt="chemistry"> <img src="https://img.shields.io/badge/fastapi-2b2d42?style=flat-square" alt="fastapi"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/machine--learning-2b2d42?style=flat-square" alt="machine-learning"> <img src="https://img.shields.io/badge/mass--spectrometry-2b2d42?style=flat-square" alt="mass-spectrometry"> <img src="https://img.shields.io/badge/python-2b2d42?style=flat-square" alt="python"> <img src="https://img.shields.io/badge/typescript-2b2d42?style=flat-square" alt="typescript"></p>
 <p><a href="https://github.com/Arnold-RG/peakwise">Code</a> · <a href="https://arnold-rg.github.io/peakwise/">Live</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/port-scanner">port-scanner</a></h3>
 <p>TCP connect port scanner for hosts, IP ranges and CIDR blocks with banner grabbing and CSV/JSON output - PowerShell and bash</p>
 <p><b>Languages</b><br><img src="https://img.shields.io/badge/Shell%2053%25-4EAA25?style=flat-square" alt="Shell 53%"> <img src="https://img.shields.io/badge/PowerShell%2045%25-5391FE?style=flat-square" alt="PowerShell 45%"> <img src="https://img.shields.io/badge/Python%202%25-3776AB?style=flat-square" alt="Python 2%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/banner--grabbing-2b2d42?style=flat-square" alt="banner-grabbing"> <img src="https://img.shields.io/badge/bash-2b2d42?style=flat-square" alt="bash"> <img src="https://img.shields.io/badge/cybersecurity-2b2d42?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/networking-2b2d42?style=flat-square" alt="networking"> <img src="https://img.shields.io/badge/port--scanner-2b2d42?style=flat-square" alt="port-scanner"> <img src="https://img.shields.io/badge/powershell-2b2d42?style=flat-square" alt="powershell"> <img src="https://img.shields.io/badge/security--tools-2b2d42?style=flat-square" alt="security-tools"> <img src="https://img.shields.io/badge/tcp-2b2d42?style=flat-square" alt="tcp"></p>
 <p><a href="https://github.com/Arnold-RG/port-scanner">Code</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Arnold-RG/ragi">ragi</a></h3>
-<p>On-device private secretary for notes, money, and projects, with an optional self-hosted backend.</p>
-<p><b>Languages</b><br><img src="https://img.shields.io/badge/TypeScript%2083%25-3178C6?style=flat-square" alt="TypeScript 83%"> <img src="https://img.shields.io/badge/CSS%2015%25-663399?style=flat-square" alt="CSS 15%"> <img src="https://img.shields.io/badge/JavaScript%201%25-F7DF1E?style=flat-square" alt="JavaScript 1%"> <img src="https://img.shields.io/badge/HTML%201%25-E34F26?style=flat-square" alt="HTML 1%"> <img src="https://img.shields.io/badge/Dockerfile%200%25-2496ED?style=flat-square" alt="Dockerfile 0%"></p>
-<p><b>Tools</b><br><img src="https://img.shields.io/badge/docker-2b2d42?style=flat-square" alt="docker"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/indexeddb-2b2d42?style=flat-square" alt="indexeddb"> <img src="https://img.shields.io/badge/typescript-2b2d42?style=flat-square" alt="typescript"> <img src="https://img.shields.io/badge/vite-2b2d42?style=flat-square" alt="vite"></p>
-<p><a href="https://github.com/Arnold-RG/ragi">Code</a> · <a href="https://arnold-rg.github.io/ragi/">Live</a></p>
 </td>
 </tr>
 <tr>
