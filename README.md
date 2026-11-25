@@ -36,7 +36,7 @@ Computer engineer working across software, Linux, data quality, IT support and c
 ## GitHub stats
 
 <div align="center">
-<img src="assets/stats.svg" alt="Arnold-RG public work: 18 public repositories, 0 stars (count as of 25 November 2026), and top languages by bytes as of 13 November 2026" width="840" height="228">
+<img src="assets/stats.svg" alt="Arnold-RG public work: 20 public repositories, 0 stars (count as of 25 November 2026), and top languages by bytes as of 13 November 2026" width="840" height="228">
 </div>
 
 ## Projects
@@ -249,7 +249,7 @@ A curated selection of open, non-Dependabot pull requests on public project repo
 
 <!-- REPO-INDEX:START -->
 
-Every public repository on this account (18), A to Z, with the languages (share of code, from GitHub) and tools (repository topics) each one uses. Updated automatically.
+Every public repository on this account (20), A to Z, with the languages (share of code, from GitHub) and tools (repository topics) each one uses. Updated automatically.
 
 <table>
 <tr>
@@ -279,7 +279,7 @@ Every public repository on this account (18), A to Z, with the languages (share 
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/Arnold-RG">Arnold-RG</a></h3>
 <p>Computer Engineer. Public profile for Arnold Rurangwa — software, Linux, IT support, and cybersecurity / SOC.</p>
-<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2061%25-E34F26?style=flat-square" alt="HTML 61%"> <img src="https://img.shields.io/badge/Python%2035%25-3776AB?style=flat-square" alt="Python 35%"> <img src="https://img.shields.io/badge/CSS%202%25-663399?style=flat-square" alt="CSS 2%"> <img src="https://img.shields.io/badge/JavaScript%201%25-F7DF1E?style=flat-square" alt="JavaScript 1%"></p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/HTML%2059%25-E34F26?style=flat-square" alt="HTML 59%"> <img src="https://img.shields.io/badge/Python%2037%25-3776AB?style=flat-square" alt="Python 37%"> <img src="https://img.shields.io/badge/CSS%202%25-663399?style=flat-square" alt="CSS 2%"> <img src="https://img.shields.io/badge/JavaScript%201%25-F7DF1E?style=flat-square" alt="JavaScript 1%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/computer--engineer-2b2d42?style=flat-square" alt="computer-engineer"> <img src="https://img.shields.io/badge/cybersecurity-2b2d42?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/it--support-2b2d42?style=flat-square" alt="it-support"> <img src="https://img.shields.io/badge/linux-2b2d42?style=flat-square" alt="linux"> <img src="https://img.shields.io/badge/profile-2b2d42?style=flat-square" alt="profile"> <img src="https://img.shields.io/badge/systems-2b2d42?style=flat-square" alt="systems"></p>
 <p><a href="https://github.com/Arnold-RG/Arnold-RG">Code</a> · <a href="https://arnold-rg.github.io/Arnold-RG/">Live</a></p>
 </td>
@@ -350,18 +350,34 @@ Every public repository on this account (18), A to Z, with the languages (share 
 </tr>
 <tr>
 <td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/our-money-hub">our-money-hub</a></h3>
+<p></p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2058%25-3776AB?style=flat-square" alt="Python 58%"> <img src="https://img.shields.io/badge/TypeScript%2038%25-3178C6?style=flat-square" alt="TypeScript 38%"> <img src="https://img.shields.io/badge/CSS%203%25-663399?style=flat-square" alt="CSS 3%"> <img src="https://img.shields.io/badge/Dockerfile%200%25-2496ED?style=flat-square" alt="Dockerfile 0%"> <img src="https://img.shields.io/badge/Shell%200%25-4EAA25?style=flat-square" alt="Shell 0%"></p>
+<p><b>Tools</b><br><sub>No topics set yet</sub></p>
+<p><a href="https://github.com/Arnold-RG/our-money-hub">Code</a> · <a href="https://arnova-omh.onrender.com">Live</a></p>
+</td>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/peakwise">peakwise</a></h3>
 <p>Name the molecule in your mass spectrum. LC-MS/MS peaks to SMILES, in the browser.</p>
 <p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2043%25-3776AB?style=flat-square" alt="Python 43%"> <img src="https://img.shields.io/badge/TypeScript%2035%25-3178C6?style=flat-square" alt="TypeScript 35%"> <img src="https://img.shields.io/badge/CSS%2014%25-663399?style=flat-square" alt="CSS 14%"> <img src="https://img.shields.io/badge/Jupyter%20Notebook%204%25-6F4E37?style=flat-square" alt="Jupyter Notebook 4%"> <img src="https://img.shields.io/badge/JavaScript%203%25-F7DF1E?style=flat-square" alt="JavaScript 3%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/chemistry-2b2d42?style=flat-square" alt="chemistry"> <img src="https://img.shields.io/badge/fastapi-2b2d42?style=flat-square" alt="fastapi"> <img src="https://img.shields.io/badge/github--pages-2b2d42?style=flat-square" alt="github-pages"> <img src="https://img.shields.io/badge/machine--learning-2b2d42?style=flat-square" alt="machine-learning"> <img src="https://img.shields.io/badge/mass--spectrometry-2b2d42?style=flat-square" alt="mass-spectrometry"> <img src="https://img.shields.io/badge/python-2b2d42?style=flat-square" alt="python"> <img src="https://img.shields.io/badge/typescript-2b2d42?style=flat-square" alt="typescript"></p>
 <p><a href="https://github.com/Arnold-RG/peakwise">Code</a> · <a href="https://arnold-rg.github.io/peakwise/">Live</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Arnold-RG/port-scanner">port-scanner</a></h3>
 <p>TCP connect port scanner for hosts, IP ranges and CIDR blocks with banner grabbing and CSV/JSON output - PowerShell and bash</p>
 <p><b>Languages</b><br><img src="https://img.shields.io/badge/Shell%2053%25-4EAA25?style=flat-square" alt="Shell 53%"> <img src="https://img.shields.io/badge/PowerShell%2045%25-5391FE?style=flat-square" alt="PowerShell 45%"> <img src="https://img.shields.io/badge/Python%202%25-3776AB?style=flat-square" alt="Python 2%"></p>
 <p><b>Tools</b><br><img src="https://img.shields.io/badge/banner--grabbing-2b2d42?style=flat-square" alt="banner-grabbing"> <img src="https://img.shields.io/badge/bash-2b2d42?style=flat-square" alt="bash"> <img src="https://img.shields.io/badge/cybersecurity-2b2d42?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/networking-2b2d42?style=flat-square" alt="networking"> <img src="https://img.shields.io/badge/port--scanner-2b2d42?style=flat-square" alt="port-scanner"> <img src="https://img.shields.io/badge/powershell-2b2d42?style=flat-square" alt="powershell"> <img src="https://img.shields.io/badge/security--tools-2b2d42?style=flat-square" alt="security-tools"> <img src="https://img.shields.io/badge/tcp-2b2d42?style=flat-square" alt="tcp"></p>
 <p><a href="https://github.com/Arnold-RG/port-scanner">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arnold-RG/ragi">ragi</a></h3>
+<p></p>
+<p><b>Languages</b><br><img src="https://img.shields.io/badge/Python%2058%25-3776AB?style=flat-square" alt="Python 58%"> <img src="https://img.shields.io/badge/TypeScript%2039%25-3178C6?style=flat-square" alt="TypeScript 39%"> <img src="https://img.shields.io/badge/CSS%203%25-663399?style=flat-square" alt="CSS 3%"> <img src="https://img.shields.io/badge/Shell%200%25-4EAA25?style=flat-square" alt="Shell 0%"> <img src="https://img.shields.io/badge/Dockerfile%200%25-2496ED?style=flat-square" alt="Dockerfile 0%"></p>
+<p><b>Tools</b><br><sub>No topics set yet</sub></p>
+<p><a href="https://github.com/Arnold-RG/ragi">Code</a> · <a href="https://arnova-ragi.onrender.com">Live</a></p>
 </td>
 </tr>
 <tr>
