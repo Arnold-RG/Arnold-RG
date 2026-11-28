@@ -2,7 +2,7 @@
 <img src="assets/header.svg" alt="Arnold Rurangwa, Computer Engineer" width="900" height="210">
 
 <p>
-<a href="https://arnold-rg.github.io/arnold-portfolio/">Portfolio</a> &nbsp;·&nbsp; <a href="https://arnold-rg.github.io/arnold-portfolio/resume.html">Official CV</a>
+<a href="https://arnold-rg.github.io/arnold-portfolio/">Portfolio</a>
 &nbsp;·&nbsp;
 <a href="https://arnold-rg.github.io/Arnold-RG/">Profile</a>
 &nbsp;·&nbsp;
